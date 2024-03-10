@@ -1,0 +1,1175 @@
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Security.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\office.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\stdole.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Security.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\office.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.Cache
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Security.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\office.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\stdole.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Security.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\office.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.Cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Data.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Security.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.CodeParser.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\stdole.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll.config
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Security.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CoreCompileInputs.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CopyComplete
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Security.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.CodeParser.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\stdole.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll.config
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Security.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csprojAssemblyReference.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CoreCompileInputs.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CopyComplete
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Security.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.CodeParser.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\office.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\stdole.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll.config
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Security.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\office.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\DevExpress.Xpo.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.cache
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CoreCompileInputs.cache
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CopyComplete
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\Security.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\stdole.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll.config
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\Security.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csprojAssemblyReference.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CoreCompileInputs.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CopyComplete
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\Security.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\stdole.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll.config
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\Security.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csprojAssemblyReference.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CoreCompileInputs.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CopyComplete
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRevision.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearRevisionForm.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb

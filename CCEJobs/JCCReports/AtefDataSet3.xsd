@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AtefDataSet3" targetNamespace="http://tempuri.org/AtefDataSet3.xsd" xmlns:mstns="http://tempuri.org/AtefDataSet3.xsd" xmlns="http://tempuri.org/AtefDataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AtefConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="AtefConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.JCCReports.Properties.Settings.GlobalReference.Default.AtefConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="AnalysisTableAdapter" GeneratorDataComponentClassName="AnalysisTableAdapter" Name="Analysis" UserDataComponentName="AnalysisTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AtefConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="False" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT DISTINCT JobCostCodePhaseID, JobCostCodePhase As [Phase], CostCode AS [Code] ,  Type = CASE JobCostCodeType + Substring(JobCostCodePhase,1,1)  WHEN 'L1' THEN '100 - LABOR'  WHEN 'L5' THEN '500 - PREFAB'  WHEN 'M2' THEN '200 - MATERIAL'  WHEN 'E3' THEN '300 - RENTAL'  WHEN 'S4' THEN '400 - SUBCONTRACT'  WHEN 'O8' THEN '800 - DJC'  ELSE 'OTHERS'  END,  UserDescription AS [Description],  TotalBudgetCost AS [Total Budget Cost],  Cost AS [Committed Cost],  ValueAdjustment As [Value Adjustment],  MonthEndCAC AS  [Monthend CAC],  RevisedCACMonthend AS [Revised Monthend CAC],  OpenCommitment As [Open Commitment],  c.Description AS ContractType, m.Description AS ProjectManager,  o.Phone, o.Fax, address + ' ' + City + ', ' + state + ' ' + zipCode AS [OfficeAddress],  j.JobNumber, j.JobName    FROM tblJobCostCodePhase b  LEFT JOIN tblJob j  ON b.JobID = j.JobID  LEFT JOIN tblContractType c  ON j.ContractTypeID = c.ContractTypeID  LEFT JOIN tblOffice o ON j.OfficeID = O.OfficeID  LEFT JOIN tblProjectManager m ON 
+j.ProjectManagerID = m.ProjectManagerID  WHERE Archived &lt;&gt; 1 AND  JobFinalContractAmount &gt;= 250000 AND   j.ProjectManagerID = 72</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ProjectManager" DataSetColumn="ProjectManager" />
+              <Mapping SourceColumn="JobNumber" DataSetColumn="JobNumber" />
+              <Mapping SourceColumn="JobName" DataSetColumn="JobName" />
+              <Mapping SourceColumn="JobCostCodePhaseID" DataSetColumn="JobCostCodePhaseID" />
+              <Mapping SourceColumn="Phase" DataSetColumn="Phase" />
+              <Mapping SourceColumn="Code" DataSetColumn="Code" />
+              <Mapping SourceColumn="Type" DataSetColumn="Type" />
+              <Mapping SourceColumn="Description" DataSetColumn="Description" />
+              <Mapping SourceColumn="Total Budget Cost" DataSetColumn="Total Budget Cost" />
+              <Mapping SourceColumn="Committed Cost" DataSetColumn="Committed Cost" />
+              <Mapping SourceColumn="Value Adjustment" DataSetColumn="Value Adjustment" />
+              <Mapping SourceColumn="Monthend CAC" DataSetColumn="Monthend CAC" />
+              <Mapping SourceColumn="Revised Monthend CAC" DataSetColumn="Revised Monthend CAC" />
+              <Mapping SourceColumn="Open Commitment" DataSetColumn="Open Commitment" />
+              <Mapping SourceColumn="ContractType" DataSetColumn="ContractType" />
+              <Mapping SourceColumn="Phone" DataSetColumn="Phone" />
+              <Mapping SourceColumn="Fax" DataSetColumn="Fax" />
+              <Mapping SourceColumn="OfficeAddress" DataSetColumn="OfficeAddress" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AtefDataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="AtefDataSet3" msprop:Generator_DataSetName="AtefDataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Analysis" msprop:Generator_UserTableName="Analysis" msprop:Generator_RowDeletedName="AnalysisRowDeleted" msprop:Generator_RowChangedName="AnalysisRowChanged" msprop:Generator_RowClassName="AnalysisRow" msprop:Generator_RowChangingName="AnalysisRowChanging" msprop:Generator_RowEvArgName="AnalysisRowChangeEvent" msprop:Generator_RowEvHandlerName="AnalysisRowChangeEventHandler" msprop:Generator_TableClassName="AnalysisDataTable" msprop:Generator_TableVarName="tableAnalysis" msprop:Generator_RowDeletingName="AnalysisRowDeleting" msprop:Generator_TablePropName="Analysis">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ProjectManager" msprop:Generator_UserColumnName="ProjectManager" msprop:Generator_ColumnVarNameInTable="columnProjectManager" msprop:Generator_ColumnPropNameInRow="ProjectManager" msprop:Generator_ColumnPropNameInTable="ProjectManagerColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="24" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="JobNumber" msprop:Generator_UserColumnName="JobNumber" msprop:Generator_ColumnVarNameInTable="columnJobNumber" msprop:Generator_ColumnPropNameInRow="JobNumber" msprop:Generator_ColumnPropNameInTable="JobNumberColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="JobName" msprop:Generator_UserColumnName="JobName" msprop:Generator_ColumnVarNameInTable="columnJobName" msprop:Generator_ColumnPropNameInRow="JobName" msprop:Generator_ColumnPropNameInTable="JobNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="JobCostCodePhaseID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="JobCostCodePhaseID" msprop:Generator_ColumnVarNameInTable="columnJobCostCodePhaseID" msprop:Generator_ColumnPropNameInRow="JobCostCodePhaseID" msprop:Generator_ColumnPropNameInTable="JobCostCodePhaseIDColumn" type="xs:int" />
+              <xs:element name="Phase" msprop:Generator_UserColumnName="Phase" msprop:Generator_ColumnVarNameInTable="columnPhase" msprop:Generator_ColumnPropNameInRow="Phase" msprop:Generator_ColumnPropNameInTable="PhaseColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Code" msprop:Generator_UserColumnName="Code" msprop:Generator_ColumnVarNameInTable="columnCode" msprop:Generator_ColumnPropNameInRow="Code" msprop:Generator_ColumnPropNameInTable="CodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Type" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Type" msprop:Generator_ColumnVarNameInTable="columnType" msprop:Generator_ColumnPropNameInRow="Type" msprop:Generator_ColumnPropNameInTable="TypeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="17" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Description" msprop:Generator_UserColumnName="Description" msprop:Generator_ColumnVarNameInTable="columnDescription" msprop:Generator_ColumnPropNameInRow="Description" msprop:Generator_ColumnPropNameInTable="DescriptionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Total_x0020_Budget_x0020_Cost" msprop:Generator_UserColumnName="Total Budget Cost" msprop:Generator_ColumnVarNameInTable="columnTotal_Budget_Cost" msprop:Generator_ColumnPropNameInRow="Total_Budget_Cost" msprop:Generator_ColumnPropNameInTable="Total_Budget_CostColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Committed_x0020_Cost" msprop:Generator_UserColumnName="Committed Cost" msprop:Generator_ColumnVarNameInTable="columnCommitted_Cost" msprop:Generator_ColumnPropNameInRow="Committed_Cost" msprop:Generator_ColumnPropNameInTable="Committed_CostColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Value_x0020_Adjustment" msprop:Generator_UserColumnName="Value Adjustment" msprop:Generator_ColumnVarNameInTable="columnValue_Adjustment" msprop:Generator_ColumnPropNameInRow="Value_Adjustment" msprop:Generator_ColumnPropNameInTable="Value_AdjustmentColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Monthend_x0020_CAC" msprop:Generator_UserColumnName="Monthend CAC" msprop:Generator_ColumnVarNameInTable="columnMonthend_CAC" msprop:Generator_ColumnPropNameInRow="Monthend_CAC" msprop:Generator_ColumnPropNameInTable="Monthend_CACColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Revised_x0020_Monthend_x0020_CAC" msprop:Generator_UserColumnName="Revised Monthend CAC" msprop:Generator_ColumnVarNameInTable="columnRevised_Monthend_CAC" msprop:Generator_ColumnPropNameInRow="Revised_Monthend_CAC" msprop:Generator_ColumnPropNameInTable="Revised_Monthend_CACColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Open_x0020_Commitment" msprop:Generator_UserColumnName="Open Commitment" msprop:Generator_ColumnVarNameInTable="columnOpen_Commitment" msprop:Generator_ColumnPropNameInRow="Open_Commitment" msprop:Generator_ColumnPropNameInTable="Open_CommitmentColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ContractType" msprop:Generator_UserColumnName="ContractType" msprop:Generator_ColumnVarNameInTable="columnContractType" msprop:Generator_ColumnPropNameInRow="ContractType" msprop:Generator_ColumnPropNameInTable="ContractTypeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="24" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Phone" msprop:Generator_UserColumnName="Phone" msprop:Generator_ColumnVarNameInTable="columnPhone" msprop:Generator_ColumnPropNameInRow="Phone" msprop:Generator_ColumnPropNameInTable="PhoneColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Fax" msprop:Generator_UserColumnName="Fax" msprop:Generator_ColumnVarNameInTable="columnFax" msprop:Generator_ColumnPropNameInRow="Fax" msprop:Generator_ColumnPropNameInTable="FaxColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OfficeAddress" msdata:ReadOnly="true" msprop:Generator_UserColumnName="OfficeAddress" msprop:Generator_ColumnVarNameInTable="columnOfficeAddress" msprop:Generator_ColumnPropNameInRow="OfficeAddress" msprop:Generator_ColumnPropNameInTable="OfficeAddressColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="91" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Analysis" />
+      <xs:field xpath="mstns:JobCostCodePhaseID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

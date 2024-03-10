@@ -1,0 +1,355 @@
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Security.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\office.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\stdole.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\office.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Security.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\office.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\stdole.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\office.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\Security.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\office.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\stdole.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\office.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\stdole.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojAssemblyReference.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\stdole.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojAssemblyReference.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\stdole.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojAssemblyReference.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\office.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\stdole.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\office.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCBusinessLayer\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\stdole.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojAssemblyReference.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\stdole.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojAssemblyReference.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCBusinessLayer\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCBusinessLayer\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCBusinessLayer\obj\Debug\JCCBusinessLayer.csprojAssemblyReference.cache

@@ -1,0 +1,349 @@
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.dll
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.pdb
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll.licenses
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.pdb
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Release\ControlsLibrary.RichBoxEditor.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.pdb
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\ControlsLibrary\obj\Release\ResolveAssemblyReference.cache
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.RichBoxEditor.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll.licenses
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.pdb
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.RichBoxEditor.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll.licenses
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.pdb
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.RichBoxEditor.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Data.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Office.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Printing.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.RichEdit.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.SpellChecker.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Utils.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraBars.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraEditors.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraLayout.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraPrinting.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraSpellChecker.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraTreeList.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Printing.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Data.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Utils.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraBars.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraEditors.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraPrinting.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraLayout.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Office.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.RichEdit.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraSpellChecker.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.SpellChecker.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraTreeList.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.MSWord.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.BonusSkins.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraNavBar.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraNavBar.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll.licenses
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.BonusSkins.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Office.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.RichEdit.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.SpellChecker.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraBars.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraLayout.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraNavBar.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraPrinting.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraSpellChecker.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraTreeList.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraBars.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraNavBar.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraPrinting.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraLayout.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Office.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.RichEdit.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraSpellChecker.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.SpellChecker.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraTreeList.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.MSWord.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.RichBoxEditor.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll.licenses
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\Bakir&Associates.ControlsLibrary.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.BonusSkins.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Office.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.RichEdit.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.SpellChecker.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraBars.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraLayout.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraNavBar.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraPrinting.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraSpellChecker.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraTreeList.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraBars.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraNavBar.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraPrinting.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraLayout.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Office.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.RichEdit.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraSpellChecker.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.SpellChecker.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\DevExpress.XtraTreeList.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\bin\Release\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.MSWord.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.Properties.Resources.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.RichBoxEditor.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.csproj.GenerateResource.Cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll.licenses
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\obj\Release\Bakir&Associates.ControlsLibrary.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\ControlsLibrary\obj\Release\ControlsLibrary.csprojResolveAssemblyReference.cache

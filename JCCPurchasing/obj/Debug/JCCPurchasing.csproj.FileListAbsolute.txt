@@ -1,0 +1,694 @@
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\JCCPurchasing.dll.config
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\JCCPurchasing.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\JCCPurchasing.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Tutorials.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Web.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.Web.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Security.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DemoData.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\EnvDTE.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Web.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\EnvDTE80.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\VSLangProj.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\office.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DemoData.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\stdole.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.MSXML.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Web.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.Web.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Security.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Web.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Web.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Web.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Web.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Web.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlNotUsedPONumbersReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListInvoicesWithDifferentJobNumberReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderInvoicesReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlAdHocReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOsWithNoInvoiceReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReceivedItemsReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListBySupplierReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByWorkOrderReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListOver5000Report.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByTypeReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOList.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlWeeklySuccessfulReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Properties.Resources.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptNotUsedPONumbers.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsInvoicesWithDifferentJobNumber.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByProjectManager.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersList.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderInvoices.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByPurchasingAgent.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByVendor.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByCategory.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByJob.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListOld.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsWithNoInvoice.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderReceivedItems.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListBySupplier.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList5000.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListByWorkOrder.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrder.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.GenerateResource.Cache
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.dll.licenses
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\JCCPurchasing.dll.config
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\JCCPurchasing.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\JCCPurchasing.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Tutorials.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Web.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.Web.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Security.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DemoData.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\EnvDTE.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Web.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\EnvDTE80.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\VSLangProj.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\office.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DemoData.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\stdole.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.MSXML.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Security.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraCharts.v15.1.Web.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraReports.v15.1.Web.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Web.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraReports.v15.1.Web.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Web.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Web.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Web.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Web.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlNotUsedPONumbersReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListInvoicesWithDifferentJobNumberReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderInvoicesReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlAdHocReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOsWithNoInvoiceReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReceivedItemsReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListBySupplierReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByWorkOrderReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListOver5000Report.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByTypeReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOList.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlWeeklySuccessfulReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Properties.Resources.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptNotUsedPONumbers.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsInvoicesWithDifferentJobNumber.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByProjectManager.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersList.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderInvoices.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByPurchasingAgent.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByVendor.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByCategory.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByJob.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListOld.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsWithNoInvoice.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderReceivedItems.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListBySupplier.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList5000.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListByWorkOrder.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrder.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.GenerateResource.Cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.dll.licenses
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlNotUsedPONumbersReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListInvoicesWithDifferentJobNumberReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderInvoicesReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlAdHocReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOsWithNoInvoiceReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReceivedItemsReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListBySupplierReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByWorkOrderReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListOver5000Report.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByTypeReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOList.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlWeeklySuccessfulReport.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptNotUsedPONumbers.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsInvoicesWithDifferentJobNumber.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByProjectManager.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersList.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderInvoices.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByPurchasingAgent.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByVendor.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByCategory.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByJob.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListOld.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsWithNoInvoice.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderReceivedItems.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListBySupplier.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList5000.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListByWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\JCCPurchasing.dll.config
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\JCCPurchasing.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\JCCPurchasing.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\EnvDTE.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\EnvDTE80.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\VSLangProj.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\office.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.MSXML.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\Anu\SG3Development-master\CCEJobs\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\JCCPurchasing.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\JCCPurchasing.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\JCCPurchasing.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\EnvDTE.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\EnvDTE80.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\VSLangProj.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Microsoft.MSXML.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlNotUsedPONumbersReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListInvoicesWithDifferentJobNumberReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderInvoicesReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlAdHocReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOsWithNoInvoiceReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReceivedItemsReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListBySupplierReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByWorkOrderReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListOver5000Report.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByTypeReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOList.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlWeeklySuccessfulReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptNotUsedPONumbers.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsInvoicesWithDifferentJobNumber.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByProjectManager.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersList.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderInvoices.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByPurchasingAgent.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByVendor.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByCategory.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByJob.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListOld.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsWithNoInvoice.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderReceivedItems.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListBySupplier.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList5000.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListByWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCPurchasing\obj\Debug\JCCPurchasing.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\JCCPurchasing.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\JCCPurchasing.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\JCCPurchasing.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\EnvDTE.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\EnvDTE80.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\VSLangProj.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.MSXML.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlNotUsedPONumbersReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListInvoicesWithDifferentJobNumberReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderInvoicesReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlAdHocReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOsWithNoInvoiceReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReceivedItemsReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListBySupplierReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByWorkOrderReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListOver5000Report.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrdersListByTypeReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPurchaseOrderReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlPOList.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Controls.ctlWeeklySuccessfulReport.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptNotUsedPONumbers.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsInvoicesWithDifferentJobNumber.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByProjectManager.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersList.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderInvoices.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByPurchasingAgent.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByVendor.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByCategory.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListByJob.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptAdHocPurchaseOrdersListOld.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPOsWithNoInvoice.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrderReceivedItems.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListBySupplier.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList5000.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersListByWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptJobPurchaseOrdersList.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.Reports.rptPurchaseOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCPurchasing\obj\Debug\JCCPurchasing.pdb

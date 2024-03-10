@@ -1,0 +1,100 @@
+C:\CCEJobs\JCCSwitchgeer\bin\Release\JCCSwitchgear.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Release\JCCSwitchgear.pdb
+C:\CCEJobs\JCCSwitchgeer\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Release\Security.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCSwitchgeer\bin\Release\Security.pdb
+C:\CCEJobs\JCCSwitchgeer\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.dll
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.pdb
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Properties.Resources.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.dll.licenses
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+C:\CCEJobs\JCCSwitchgeer\bin\Release\JCCSwitchgear.dll.config
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+C:\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+C:\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+C:\CCEJobs\JCCSwitchgeer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Debug\Security.dll
+C:\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCSwitchgeer\bin\Debug\Security.pdb
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+C:\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Debug\JCCSwitchgear.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Debug\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Debug\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Debug\JCCSwitchgear.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\JCCSwitchgear.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\JCCSwitchgear.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\JCCSwitchgear.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\office.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\bin\Release\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Controls.ctlJobSwitchgear.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Controls.ctlJobSwitchgearOld.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.PresentationLayer.frmSwitchgearRelease.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.PresentationLayer.frmSwitchgear.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearReleaseLogSub.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearReleaseForm.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.Reports.rptJobSwitchgearLogSub.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCSwitchgeer\obj\Release\JCCSwitchgear.pdb

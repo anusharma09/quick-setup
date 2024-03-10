@@ -1,0 +1,104 @@
+C:\CCEJobs\JCCEquipmentRental\bin\Release\JCCEquipmentRental.dll.config
+C:\CCEJobs\JCCEquipmentRental\bin\Release\JCCEquipmentRental.dll
+C:\CCEJobs\JCCEquipmentRental\bin\Release\JCCEquipmentRental.pdb
+C:\CCEJobs\JCCEquipmentRental\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCEquipmentRental\bin\Release\Security.dll
+C:\CCEJobs\JCCEquipmentRental\bin\Release\Security.pdb
+C:\CCEJobs\JCCEquipmentRental\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Properties.Resources.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.dll
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.pdb
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Controls.ctlAdHocReport.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Controls.ctlEquipmentRentalList.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.dll.licenses
+C:\CCEJobs\JCCEquipmentRental\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByStatus.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByVendor.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByJob.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalList.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.PresentationLayer.frmEquipmentRental.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Controls.ctlEquipmentRental.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptJobEquipmentRentalLog.resources
+C:\CCEJobs\JCCEquipmentRental\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs\JCCEquipmentRental\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptJobEquipmentRental.resources
+C:\CCEJobs\JCCEquipmentRental\bin\Debug\JCCEquipmentRental.dll.config
+C:\CCEJobs\JCCEquipmentRental\bin\Debug\JCCEquipmentRental.dll
+C:\CCEJobs\JCCEquipmentRental\bin\Debug\JCCEquipmentRental.pdb
+C:\CCEJobs\JCCEquipmentRental\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCEquipmentRental\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs\JCCEquipmentRental\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCEquipmentRental\bin\Debug\Security.dll
+C:\CCEJobs\JCCEquipmentRental\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCEquipmentRental\bin\Debug\Security.pdb
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Controls.ctlAdHocReport.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Controls.ctlEquipmentRental.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Controls.ctlEquipmentRentalList.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.PresentationLayer.frmEquipmentRental.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Properties.Resources.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByStatus.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByVendor.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByJob.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalList.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptJobEquipmentRentalLog.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptJobEquipmentRental.resources
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.dll.licenses
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.dll
+C:\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Debug\JCCEquipmentRental.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Debug\JCCEquipmentRental.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Debug\JCCEquipmentRental.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Debug\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Debug\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Controls.ctlAdHocReport.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Controls.ctlEquipmentRental.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Controls.ctlEquipmentRentalList.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.PresentationLayer.frmEquipmentRental.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByStatus.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByVendor.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByJob.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalList.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptJobEquipmentRentalLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.Reports.rptJobEquipmentRental.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Debug\JCCEquipmentRental.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\JCCEquipmentRental.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\JCCEquipmentRental.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\JCCEquipmentRental.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\office.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\bin\Release\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Controls.ctlAdHocReport.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Controls.ctlEquipmentRental.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Controls.ctlEquipmentRentalList.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.PresentationLayer.frmEquipmentRental.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByStatus.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByVendor.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalListByJob.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptAdHocEquipmentRentalList.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptJobEquipmentRentalLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.Reports.rptJobEquipmentRental.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCEquipmentRental\obj\Release\JCCEquipmentRental.pdb

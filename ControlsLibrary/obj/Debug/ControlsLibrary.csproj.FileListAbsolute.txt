@@ -1,0 +1,828 @@
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.Cache
+D:\Traning\WindowsFormsApplication2\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.Cache
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.Cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CopyComplete
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CopyComplete
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CopyComplete
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CopyComplete
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CopyComplete
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CopyComplete
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\DevExpress.BonusSkins.v15.1.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\DevExpress.Data.v15.1.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\DevExpress.Office.v15.1.Core.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\ControlsLibrary.MSWord.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\ControlsLibrary.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\ControlsLibrary.RichBoxEditor.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\ControlsLibrary.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\ControlsLibrary\obj\Debug\ControlsLibrary.csprojAssemblyReference.cache

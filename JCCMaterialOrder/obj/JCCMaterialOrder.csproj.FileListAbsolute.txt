@@ -1,0 +1,96 @@
+C:\CCEJobs\JCCMaterialOrder\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Controls.ctlAdHocReport.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Controls.ctlMaterialOrderList.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Reports.rptAdHocMaterialOrderListByJob.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Reports.rptAdHocMaterialOrderList.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.dll.licenses
+C:\CCEJobs\JCCMaterialOrder\bin\Release\JCCMaterialOrder.dll.config
+C:\CCEJobs\JCCMaterialOrder\bin\Release\JCCMaterialOrder.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Release\JCCMaterialOrder.pdb
+C:\CCEJobs\JCCMaterialOrder\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Release\Security.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Release\Security.pdb
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Properties.Resources.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.dll
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.pdb
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Controls.ctlMaterialOrder.resources
+C:\CCEJobs\JCCMaterialOrder\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Reports.rptJobMaterialOrderLog.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.PresentationLayer.frmMaterialOrder.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Reports.rptJobMaterialOrder.resources
+C:\CCEJobs\JCCMaterialOrder\bin\Debug\JCCMaterialOrder.dll.config
+C:\CCEJobs\JCCMaterialOrder\bin\Debug\JCCMaterialOrder.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Debug\JCCMaterialOrder.pdb
+C:\CCEJobs\JCCMaterialOrder\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Debug\Security.dll
+C:\CCEJobs\JCCMaterialOrder\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCMaterialOrder\bin\Debug\Security.pdb
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Controls.ctlAdHocReport.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Controls.ctlMaterialOrder.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Controls.ctlMaterialOrderList.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.PresentationLayer.frmMaterialOrder.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Properties.Resources.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Reports.rptAdHocMaterialOrderListByJob.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Reports.rptAdHocMaterialOrderList.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Reports.rptJobMaterialOrderLog.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Reports.rptJobMaterialOrder.resources
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.dll.licenses
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.dll
+C:\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Debug\JCCMaterialOrder.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Debug\JCCMaterialOrder.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Debug\JCCMaterialOrder.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Debug\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Debug\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Controls.ctlAdHocReport.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Controls.ctlMaterialOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Controls.ctlMaterialOrderList.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.PresentationLayer.frmMaterialOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Reports.rptAdHocMaterialOrderListByJob.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Reports.rptAdHocMaterialOrderList.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Reports.rptJobMaterialOrderLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.Reports.rptJobMaterialOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Debug\JCCMaterialOrder.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\JCCMaterialOrder.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\JCCMaterialOrder.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\JCCMaterialOrder.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\office.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\bin\Release\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Controls.ctlAdHocReport.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Controls.ctlMaterialOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Controls.ctlMaterialOrderList.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.PresentationLayer.frmMaterialOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Reports.rptAdHocMaterialOrderListByJob.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Reports.rptAdHocMaterialOrderList.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Reports.rptJobMaterialOrderLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.Reports.rptJobMaterialOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCMaterialOrder\obj\Release\JCCMaterialOrder.pdb

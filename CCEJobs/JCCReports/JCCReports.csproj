@@ -1,0 +1,1061 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{33B578EF-A0AF-4B1E-A6FE-C115DC7EF8BE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JCCReports</RootNamespace>
+    <AssemblyName>JCCReports</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ContraCostaElectric.DatabaseUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ContraCostaElectric.DatabaseUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1.Wizard, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1.Design, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1.UI, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v15.1.Design, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1.Design, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1.UI, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1.Extensions, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1.Design, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1.Import, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v15.1.Design, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Security, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AtefDataSet.cs">
+      <DependentUpon>AtefDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AtefDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AtefDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AtefDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AtefDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AtefDataSet2.cs">
+      <DependentUpon>AtefDataSet2.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AtefDataSet2.Designer.cs">
+      <DependentUpon>AtefDataSet2.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="AtefDataSet3.cs">
+      <DependentUpon>AtefDataSet3.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="AtefDataSet3.Designer.cs">
+      <DependentUpon>AtefDataSet3.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="AtefDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AtefDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AtefDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AtefDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AtefDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AtefDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CCEApplication.cs" />
+    <Compile Include="rptJobPOInvoices.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobPOInvoices.Designer.cs">
+      <DependentUpon>rptJobPOInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobsWithLaborActivityByWeek.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobsWithLaborActivityByWeek.Designer.cs">
+      <DependentUpon>rptJobsWithLaborActivityByWeek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobDashboardCost.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobDashboardCost.Designer.cs">
+      <DependentUpon>rptJobDashboardCost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptPrequalExcel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPrequalExcel.Designer.cs">
+      <DependentUpon>rptPrequalExcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptPrequalSheet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPrequalSheet.Designer.cs">
+      <DependentUpon>rptPrequalSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobSummaryDashboardSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobSummaryDashboardSummary.Designer.cs">
+      <DependentUpon>rptJobSummaryDashboardSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobByCostCodes.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobByCostCodes.Designer.cs">
+      <DependentUpon>rptJobByCostCodes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobSubcontractsInvoices.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobSubcontractsInvoices.Designer.cs">
+      <DependentUpon>rptJobSubcontractsInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobInvoiceDetailAging.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobInvoiceDetailAging.Designer.cs">
+      <DependentUpon>rptJobInvoiceDetailAging.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptPOsWithNoMatchInvoice.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPOsWithNoMatchInvoice.Designer.cs">
+      <DependentUpon>rptPOsWithNoMatchInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostCodesToResearch.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostCodesToResearch.Designer.cs">
+      <DependentUpon>rptJobCostCodesToResearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobPurchasingSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobPurchasingSummary.Designer.cs">
+      <DependentUpon>rptJobPurchasingSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobInvoicesNoPO.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobInvoicesNoPO.Designer.cs">
+      <DependentUpon>rptJobInvoicesNoPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLogListAll.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLogListAll.Designer.cs">
+      <DependentUpon>rptJobLogListAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLogList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLogList.Designer.cs">
+      <DependentUpon>rptJobLogList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobPurchasingItems.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobPurchasingItems.Designer.cs">
+      <DependentUpon>rptJobPurchasingItems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobDetailedMonthEndCostOfCompletionWIP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobDetailedMonthEndCostOfCompletionWIP.Designer.cs">
+      <DependentUpon>rptJobDetailedMonthEndCostOfCompletionWIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryMonthEnd.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryMonthEnd.Designer.cs">
+      <DependentUpon>rptJobProgressSummaryMonthEnd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryHistoryWIP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryHistoryWIP.Designer.cs">
+      <DependentUpon>rptJobProgressSummaryHistoryWIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobDetailedMonthEndCostOfCompletion.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobDetailedMonthEndCostOfCompletion.Designer.cs">
+      <DependentUpon>rptJobDetailedMonthEndCostOfCompletion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobPurchasingDetailNI.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobPurchasingDetailNI.Designer.cs">
+      <DependentUpon>rptJobPurchasingDetailNI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobPurchasingDetailSubI.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobPurchasingDetailSubI.Designer.cs">
+      <DependentUpon>rptJobPurchasingDetailSubI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisAppSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisAppSummary.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisAppSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisApp.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisApp.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobDocumentList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobDocumentList.Designer.cs">
+      <DependentUpon>rptJobDocumentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reports.cs" />
+    <Compile Include="rptBidSchedule.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptBidSchedule.Designer.cs">
+      <DependentUpon>rptBidSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptCompanyEstimateHistory.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptCompanyEstimateHistory.Designer.cs">
+      <DependentUpon>rptCompanyEstimateHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptCompanyEstimateReview.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptCompanyEstimateReview.Designer.cs">
+      <DependentUpon>rptCompanyEstimateReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptCostBreakdownSheet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptCostBreakdownSheet.Designer.cs">
+      <DependentUpon>rptCostBreakdownSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobBillingSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobBillingSummary.Designer.cs">
+      <DependentUpon>rptJobBillingSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobChangeOrderList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobChangeOrderList.Designer.cs">
+      <DependentUpon>rptJobChangeOrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobContractLog.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobContractLog.Designer.cs">
+      <DependentUpon>rptJobContractLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisCode.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisCode.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisCodeSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisCodeSummary.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisCodeSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisList.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisPhase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisPhase.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisPhase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisPhaseSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisPhaseSummary.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisPhaseSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisVendor.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisVendor.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisVendor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisVendorSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisVendorSummary.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisVendorSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisWeek.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisWeek.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisWeek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisWeekSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobCostAnalysisWeekSummary.Designer.cs">
+      <DependentUpon>rptJobCostAnalysisWeekSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobDashboardDetail.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobDashboardDetail.Designer.cs">
+      <DependentUpon>rptJobDashboardDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobDashboardSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobDashboardSummary.Designer.cs">
+      <DependentUpon>rptJobDashboardSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobInvoiceDetailN.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobInvoiceDetailN.Designer.cs">
+      <DependentUpon>rptJobInvoiceDetailN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobInvoiceDetailSub.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobInvoiceDetailSub.Designer.cs">
+      <DependentUpon>rptJobInvoiceDetailSub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysis.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysis.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisCode.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisCode.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisCodeSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisCodeSummary.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisCodeSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisCraft.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisCraft.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisCraft.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisCraftSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisCraftSummary.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisCraftSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisEmp.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisEmp.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisEmpSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisEmpSummary.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisEmpSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisHoursType.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisHoursType.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisHoursType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisHoursTypeSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisHoursTypeSummary.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisHoursTypeSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisList.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisPhase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisPhase.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisPhase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisPhaseSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisPhaseSummary.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisPhaseSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisWeek.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisWeek.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisWeek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisWeekSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobLaborAnalysisWeekSummary.Designer.cs">
+      <DependentUpon>rptJobLaborAnalysisWeekSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobList.Designer.cs">
+      <DependentUpon>rptJobList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobProgressSummary.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobProgressSummary.Designer.cs">
+      <DependentUpon>rptJobProgressSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryHistory.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryHistory.Designer.cs">
+      <DependentUpon>rptJobProgressSummaryHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryWIP.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryWIP.Designer.cs">
+      <DependentUpon>rptJobProgressSummaryWIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryWIPMonthEnd.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobProgressSummaryWIPMonthEnd.Designer.cs">
+      <DependentUpon>rptJobProgressSummaryWIPMonthEnd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobPurchasingDetailN.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobPurchasingDetailN.Designer.cs">
+      <DependentUpon>rptJobPurchasingDetailN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobPurchasingDetailSub.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobPurchasingDetailSub.Designer.cs">
+      <DependentUpon>rptJobPurchasingDetailSub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobSheet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobSheet.Designer.cs">
+      <DependentUpon>rptJobSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptJobTotalBudget.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptJobTotalBudget.Designer.cs">
+      <DependentUpon>rptJobTotalBudget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptLaborFeedbackReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptLaborFeedbackReport.Designer.cs">
+      <DependentUpon>rptLaborFeedbackReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptLaborPerformanceReport.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptLaborPerformanceReport.Designer.cs">
+      <DependentUpon>rptLaborPerformanceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptOCIPClassifiedProjects.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptOCIPClassifiedProjects.Designer.cs">
+      <DependentUpon>rptOCIPClassifiedProjects.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptPOsWithNoInvoice.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPOsWithNoInvoice.Designer.cs">
+      <DependentUpon>rptPOsWithNoInvoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptPreJobPlanning.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptPreJobPlanning.Designer.cs">
+      <DependentUpon>rptPreJobPlanning.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWeeklyEstimateBudget.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptWeeklyEstimateBudget.Designer.cs">
+      <DependentUpon>rptWeeklyEstimateBudget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWeeklyEstimateNoNoBid.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptWeeklyEstimateNoNoBid.Designer.cs">
+      <DependentUpon>rptWeeklyEstimateNoNoBid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWeeklyEstimateOpenPendingNew.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptWeeklyEstimateOpenPendingNew.Designer.cs">
+      <DependentUpon>rptWeeklyEstimateOpenPendingNew.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWeeklyEstimateSuccessful.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptWeeklyEstimateSuccessful.Designer.cs">
+      <DependentUpon>rptWeeklyEstimateSuccessful.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWeeklyMillionDollar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptWeeklyMillionDollar.Designer.cs">
+      <DependentUpon>rptWeeklyMillionDollar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWeeklyNewJob.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptWeeklyNewJob.Designer.cs">
+      <DependentUpon>rptWeeklyNewJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWeeklyQuantity.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptWeeklyQuantity.Designer.cs">
+      <DependentUpon>rptWeeklyQuantity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWeeklyQuantitySheet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptWeeklyQuantitySheet.Designer.cs">
+      <DependentUpon>rptWeeklyQuantitySheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rptWeeklyTimeSheet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptWeeklyTimeSheet.Designer.cs">
+      <DependentUpon>rptWeeklyTimeSheet.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="rptJobPOInvoices.resx">
+      <DependentUpon>rptJobPOInvoices.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobsWithLaborActivityByWeek.resx">
+      <DependentUpon>rptJobsWithLaborActivityByWeek.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobDashboardCost.resx">
+      <DependentUpon>rptJobDashboardCost.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPrequalExcel.resx">
+      <DependentUpon>rptPrequalExcel.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPrequalSheet.resx">
+      <DependentUpon>rptPrequalSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobSummaryDashboardSummary.resx">
+      <DependentUpon>rptJobSummaryDashboardSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobByCostCodes.resx">
+      <DependentUpon>rptJobByCostCodes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobSubcontractsInvoices.resx">
+      <DependentUpon>rptJobSubcontractsInvoices.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobInvoiceDetailAging.resx">
+      <DependentUpon>rptJobInvoiceDetailAging.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPOsWithNoMatchInvoice.resx">
+      <DependentUpon>rptPOsWithNoMatchInvoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostCodesToResearch.resx">
+      <DependentUpon>rptJobCostCodesToResearch.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobPurchasingSummary.resx">
+      <DependentUpon>rptJobPurchasingSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobInvoicesNoPO.resx">
+      <DependentUpon>rptJobInvoicesNoPO.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLogListAll.resx">
+      <DependentUpon>rptJobLogListAll.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLogList.resx">
+      <DependentUpon>rptJobLogList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobPurchasingItems.resx">
+      <DependentUpon>rptJobPurchasingItems.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobDetailedMonthEndCostOfCompletionWIP.resx">
+      <DependentUpon>rptJobDetailedMonthEndCostOfCompletionWIP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobProgressSummaryMonthEnd.resx">
+      <DependentUpon>rptJobProgressSummaryMonthEnd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobProgressSummaryHistoryWIP.resx">
+      <DependentUpon>rptJobProgressSummaryHistoryWIP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobDetailedMonthEndCostOfCompletion.resx">
+      <DependentUpon>rptJobDetailedMonthEndCostOfCompletion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobPurchasingDetailNI.resx">
+      <DependentUpon>rptJobPurchasingDetailNI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobPurchasingDetailSubI.resx">
+      <DependentUpon>rptJobPurchasingDetailSubI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisAppSummary.resx">
+      <DependentUpon>rptJobCostAnalysisAppSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisApp.resx">
+      <DependentUpon>rptJobCostAnalysisApp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobDocumentList.resx">
+      <DependentUpon>rptJobDocumentList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="rptBidSchedule.resx">
+      <DependentUpon>rptBidSchedule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptCompanyEstimateHistory.resx">
+      <DependentUpon>rptCompanyEstimateHistory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptCompanyEstimateReview.resx">
+      <DependentUpon>rptCompanyEstimateReview.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptCostBreakdownSheet.resx">
+      <DependentUpon>rptCostBreakdownSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobBillingSummary.resx">
+      <DependentUpon>rptJobBillingSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobChangeOrderList.resx">
+      <DependentUpon>rptJobChangeOrderList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobContractLog.resx">
+      <DependentUpon>rptJobContractLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisCode.resx">
+      <DependentUpon>rptJobCostAnalysisCode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisCodeSummary.resx">
+      <DependentUpon>rptJobCostAnalysisCodeSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisList.resx">
+      <DependentUpon>rptJobCostAnalysisList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisPhase.resx">
+      <DependentUpon>rptJobCostAnalysisPhase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisPhaseSummary.resx">
+      <DependentUpon>rptJobCostAnalysisPhaseSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisVendor.resx">
+      <DependentUpon>rptJobCostAnalysisVendor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisVendorSummary.resx">
+      <DependentUpon>rptJobCostAnalysisVendorSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisWeek.resx">
+      <DependentUpon>rptJobCostAnalysisWeek.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobCostAnalysisWeekSummary.resx">
+      <DependentUpon>rptJobCostAnalysisWeekSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobDashboardDetail.resx">
+      <DependentUpon>rptJobDashboardDetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobDashboardSummary.resx">
+      <DependentUpon>rptJobDashboardSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobInvoiceDetailN.resx">
+      <DependentUpon>rptJobInvoiceDetailN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobInvoiceDetailSub.resx">
+      <DependentUpon>rptJobInvoiceDetailSub.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysis.resx">
+      <DependentUpon>rptJobLaborAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisCode.resx">
+      <DependentUpon>rptJobLaborAnalysisCode.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisCodeSummary.resx">
+      <DependentUpon>rptJobLaborAnalysisCodeSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisCraft.resx">
+      <DependentUpon>rptJobLaborAnalysisCraft.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisCraftSummary.resx">
+      <DependentUpon>rptJobLaborAnalysisCraftSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisEmp.resx">
+      <DependentUpon>rptJobLaborAnalysisEmp.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisEmpSummary.resx">
+      <DependentUpon>rptJobLaborAnalysisEmpSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisHoursType.resx">
+      <DependentUpon>rptJobLaborAnalysisHoursType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisHoursTypeSummary.resx">
+      <DependentUpon>rptJobLaborAnalysisHoursTypeSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisList.resx">
+      <DependentUpon>rptJobLaborAnalysisList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisPhase.resx">
+      <DependentUpon>rptJobLaborAnalysisPhase.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisPhaseSummary.resx">
+      <DependentUpon>rptJobLaborAnalysisPhaseSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisWeek.resx">
+      <DependentUpon>rptJobLaborAnalysisWeek.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobLaborAnalysisWeekSummary.resx">
+      <DependentUpon>rptJobLaborAnalysisWeekSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobList.resx">
+      <DependentUpon>rptJobList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobProgressSummary.resx">
+      <DependentUpon>rptJobProgressSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobProgressSummaryHistory.resx">
+      <DependentUpon>rptJobProgressSummaryHistory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobProgressSummaryWIP.resx">
+      <DependentUpon>rptJobProgressSummaryWIP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobProgressSummaryWIPMonthEnd.resx">
+      <DependentUpon>rptJobProgressSummaryWIPMonthEnd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobPurchasingDetailN.resx">
+      <DependentUpon>rptJobPurchasingDetailN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobPurchasingDetailSub.resx">
+      <DependentUpon>rptJobPurchasingDetailSub.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobSheet.resx">
+      <DependentUpon>rptJobSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptJobTotalBudget.resx">
+      <DependentUpon>rptJobTotalBudget.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptLaborFeedbackReport.resx">
+      <DependentUpon>rptLaborFeedbackReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptLaborPerformanceReport.resx">
+      <DependentUpon>rptLaborPerformanceReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptOCIPClassifiedProjects.resx">
+      <DependentUpon>rptOCIPClassifiedProjects.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPOsWithNoInvoice.resx">
+      <DependentUpon>rptPOsWithNoInvoice.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptPreJobPlanning.resx">
+      <DependentUpon>rptPreJobPlanning.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWeeklyEstimateBudget.resx">
+      <DependentUpon>rptWeeklyEstimateBudget.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWeeklyEstimateNoNoBid.resx">
+      <DependentUpon>rptWeeklyEstimateNoNoBid.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWeeklyEstimateOpenPendingNew.resx">
+      <DependentUpon>rptWeeklyEstimateOpenPendingNew.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWeeklyEstimateSuccessful.resx">
+      <DependentUpon>rptWeeklyEstimateSuccessful.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWeeklyMillionDollar.resx">
+      <DependentUpon>rptWeeklyMillionDollar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWeeklyNewJob.resx">
+      <DependentUpon>rptWeeklyNewJob.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWeeklyQuantity.resx">
+      <DependentUpon>rptWeeklyQuantity.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWeeklyQuantitySheet.resx">
+      <DependentUpon>rptWeeklyQuantitySheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptWeeklyTimeSheet.resx">
+      <DependentUpon>rptWeeklyTimeSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\JCCBusinessLayer\JCCBusinessLayer.csproj">
+      <Project>{FC476DA2-BF3D-4F80-B371-465C2923C9BF}</Project>
+      <Name>JCCBusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AtefDataSet.xsc">
+      <DependentUpon>AtefDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AtefDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AtefDataSet.xss">
+      <DependentUpon>AtefDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet1.xsc">
+      <DependentUpon>AtefDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AtefDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AtefDataSet1.xss">
+      <DependentUpon>AtefDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet2.xsc">
+      <DependentUpon>AtefDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AtefDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AtefDataSet2.xss">
+      <DependentUpon>AtefDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet3.xsc">
+      <DependentUpon>AtefDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AtefDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AtefDataSet3.xss">
+      <DependentUpon>AtefDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet4.xsc">
+      <DependentUpon>AtefDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AtefDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AtefDataSet4.xss">
+      <DependentUpon>AtefDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet5.xsc">
+      <DependentUpon>AtefDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AtefDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AtefDataSet5.xss">
+      <DependentUpon>AtefDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet6.xsc">
+      <DependentUpon>AtefDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AtefDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AtefDataSet6.xss">
+      <DependentUpon>AtefDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\ContraCosta %28Small%29.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dynalectric.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

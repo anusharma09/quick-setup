@@ -1,0 +1,89 @@
+C:\CCEJobs\JCCTimeMaterial\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Properties.Resources.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCTimeMaterial\bin\Release\JCCTimeMaterial.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Release\JCCTimeMaterial.pdb
+C:\CCEJobs\JCCTimeMaterial\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Release\Security.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCTimeMaterial\bin\Release\Security.pdb
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.dll
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.pdb
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.dll.licenses
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+C:\CCEJobs\JCCTimeMaterial\bin\Release\JCCTimeMaterial.dll.config
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+C:\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+C:\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+C:\CCEJobs\JCCTimeMaterial\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Debug\Security.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCTimeMaterial\bin\Debug\Security.pdb
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+C:\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Debug\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Debug\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\JCCTimeMaterial.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\JCCTimeMaterial.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\JCCTimeMaterial.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\office.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\bin\Release\office.xml
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCTimeMaterial\obj\Release\JCCTimeMaterial.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AtefDataSet" targetNamespace="http://tempuri.org/AtefDataSet.xsd" xmlns:mstns="http://tempuri.org/AtefDataSet.xsd" xmlns="http://tempuri.org/AtefDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AtefConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="AtefConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.JCCReports.Properties.Settings.GlobalReference.Default.AtefConnectionString" Provider="System.Data.SqlClient" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AtefConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="AtefConnectionString1 (Settings)" PropertyReference="ApplicationSettings.JCCReports.Properties.Settings.GlobalReference.Default.AtefConnectionString1" Provider="System.Data.Odbc" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblJobBalanceTableAdapter" GeneratorDataComponentClassName="tblJobBalanceTableAdapter" Name="tblJobBalance" UserDataComponentName="tblJobBalanceTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AtefConnectionString1 (Settings)" DbObjectName="" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT '' AS RFIText</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="RFI No" DataSetColumn="EstimatedApprenticeHours" />
+              <Mapping SourceColumn="GC RFI No" DataSetColumn="ApprenticeLaborRate" />
+              <Mapping SourceColumn="Subject" DataSetColumn="ApprenticeCost" />
+              <Mapping SourceColumn="RFI Date" DataSetColumn="RFIText" />
+              <Mapping SourceColumn="Response Date" DataSetColumn="Response Date" />
+              <Mapping SourceColumn="Status" DataSetColumn="Status" />
+              <Mapping SourceColumn="Days Out" DataSetColumn="Days Out" />
+              <Mapping SourceColumn="Change Order #" DataSetColumn="Change Order #" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AtefDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="AtefDataSet" msprop:Generator_DataSetName="AtefDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblJobBalance" msprop:Generator_UserTableName="tblJobBalance" msprop:Generator_RowDeletedName="tblJobBalanceRowDeleted" msprop:Generator_RowChangedName="tblJobBalanceRowChanged" msprop:Generator_RowClassName="tblJobBalanceRow" msprop:Generator_RowChangingName="tblJobBalanceRowChanging" msprop:Generator_RowEvArgName="tblJobBalanceRowChangeEvent" msprop:Generator_RowEvHandlerName="tblJobBalanceRowChangeEventHandler" msprop:Generator_TableClassName="tblJobBalanceDataTable" msprop:Generator_TableVarName="tabletblJobBalance" msprop:Generator_RowDeletingName="tblJobBalanceRowDeleting" msprop:Generator_TablePropName="tblJobBalance">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EstimatedApprenticeHours" msprop:Generator_UserColumnName="EstimatedApprenticeHours" msprop:Generator_ColumnPropNameInRow="EstimatedApprenticeHours" msprop:Generator_ColumnVarNameInTable="columnEstimatedApprenticeHours" msprop:Generator_ColumnPropNameInTable="EstimatedApprenticeHoursColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ApprenticeLaborRate" msprop:Generator_UserColumnName="ApprenticeLaborRate" msprop:Generator_ColumnPropNameInRow="ApprenticeLaborRate" msprop:Generator_ColumnVarNameInTable="columnApprenticeLaborRate" msprop:Generator_ColumnPropNameInTable="ApprenticeLaborRateColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ApprenticeCost" msprop:Generator_UserColumnName="ApprenticeCost" msprop:Generator_ColumnPropNameInRow="ApprenticeCost" msprop:Generator_ColumnVarNameInTable="columnApprenticeCost" msprop:Generator_ColumnPropNameInTable="ApprenticeCostColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RFIText" msprop:Generator_UserColumnName="RFIText" msprop:Generator_ColumnPropNameInRow="RFIText" msprop:Generator_ColumnVarNameInTable="columnRFIText" msprop:Generator_ColumnPropNameInTable="RFITextColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Response_x0020_Date" msprop:Generator_UserColumnName="Response Date" msprop:Generator_ColumnPropNameInRow="Response_Date" msprop:Generator_ColumnVarNameInTable="columnResponse_Date" msprop:Generator_ColumnPropNameInTable="Response_DateColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Status" msprop:Generator_UserColumnName="Status" msprop:Generator_ColumnPropNameInRow="Status" msprop:Generator_ColumnVarNameInTable="columnStatus" msprop:Generator_ColumnPropNameInTable="StatusColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Days_x0020_Out" msprop:Generator_UserColumnName="Days Out" msprop:Generator_ColumnPropNameInRow="Days_Out" msprop:Generator_ColumnVarNameInTable="columnDays_Out" msprop:Generator_ColumnPropNameInTable="Days_OutColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Change_x0020_Order_x0020__x0023_" msprop:Generator_UserColumnName="Change Order #" msprop:Generator_ColumnPropNameInRow="_Change_Order__" msprop:Generator_ColumnVarNameInTable="_columnChange_Order__" msprop:Generator_ColumnPropNameInTable="_Change_Order__Column" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

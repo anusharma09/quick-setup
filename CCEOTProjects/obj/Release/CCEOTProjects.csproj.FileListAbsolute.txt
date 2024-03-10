@@ -1,0 +1,810 @@
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll.config
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.pdb
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\Security.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Vbe.Interop.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\office.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\Security.pdb
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\office.xml
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\ResolveAssemblyReference.cache
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateHoursReport.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateJobStatisticsReport.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateTrackingReport.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAssignments.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocAnalysisReport.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAudit.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectNotes.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectWebLinks.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocReport.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectDocuments.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOTProjectList.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.PresentationLayer.frmProjectOpportunity.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Properties.Resources.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityHoursTracking.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityTracking.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptOpportunityEstimateJobStatistics.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAssignments.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesAnalysis.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAudit.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectNotes.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectWebLinks.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByAssignedTo.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByDepartment.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByOffice.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByWorkType.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByStatus.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesList.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectDocumentList.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectSheet.resources
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csproj.GenerateResource.Cache
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll.licenses
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.pdb
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csprojResolveAssemblyReference.cache
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateHoursReport.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateJobStatisticsReport.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateTrackingReport.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAssignments.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocAnalysisReport.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAudit.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectNotes.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectWebLinks.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocReport.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectDocuments.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOTProjectList.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.PresentationLayer.frmProjectOpportunity.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Properties.Resources.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityHoursTracking.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityTracking.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptOpportunityEstimateJobStatistics.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAssignments.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesAnalysis.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAudit.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectNotes.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectWebLinks.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByAssignedTo.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByDepartment.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByOffice.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByWorkType.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByStatus.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesList.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectDocumentList.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectSheet.resources
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csproj.GenerateResource.Cache
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll.licenses
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll.config
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.pdb
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Security.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Security.pdb
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csprojResolveAssemblyReference.cache
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateHoursReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateJobStatisticsReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateTrackingReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAssignments.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocAnalysisReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAudit.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectNotes.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectWebLinks.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocReport.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectDocuments.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOTProjectList.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.PresentationLayer.frmProjectOpportunity.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Properties.Resources.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityHoursTracking.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityTracking.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptOpportunityEstimateJobStatistics.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAssignments.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesAnalysis.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAudit.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectNotes.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectWebLinks.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByAssignedTo.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByDepartment.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByOffice.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByWorkType.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByStatus.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesList.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectDocumentList.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectSheet.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csproj.GenerateResource.Cache
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll.licenses
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll.config
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Charts.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Data.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Office.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Printing.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.RichEdit.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.UI.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraBars.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraEditors.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraLayout.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPrinting.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Security.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\EnvDTE.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\EnvDTE80.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraTreeList.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\VSLangProj.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraNavBar.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.CodeParser.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.UI.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.CommandBars.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\office.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\stdole.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Xpo.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.MSXML.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Printing.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Data.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraBars.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraEditors.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraLayout.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPrinting.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.UI.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Office.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.RichEdit.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Security.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraTreeList.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraNavBar.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.UI.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\office.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Xpo.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll.config
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\BakirAndAssociates.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Charts.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Office.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.PivotGrid.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.RichEdit.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraBars.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraLayout.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPivotGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPrinting.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Security.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\EnvDTE.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\EnvDTE80.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraTreeList.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\VSLangProj.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraNavBar.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.CodeParser.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGauges.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.CommandBars.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\office.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\stdole.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Xpo.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.MSXML.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\BakirAndAssociates.DatabaseUtil.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraBars.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraLayout.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPrinting.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPivotGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.PivotGrid.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Office.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.RichEdit.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Security.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraTreeList.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraNavBar.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGauges.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\office.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Xpo.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateHoursReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateJobStatisticsReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateTrackingReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAssignments.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocAnalysisReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAudit.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectNotes.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectWebLinks.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectDocuments.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOTProjectList.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.PresentationLayer.frmProjectOpportunity.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Properties.Resources.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityHoursTracking.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityTracking.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptOpportunityEstimateJobStatistics.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAssignments.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesAnalysis.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAudit.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectNotes.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectWebLinks.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByAssignedTo.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByDepartment.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByOffice.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByWorkType.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByStatus.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesList.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectDocumentList.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectSheet.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csproj.GenerateResource.Cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll.licenses
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll.config
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\BakirAndAssociates.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Charts.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Office.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.PivotGrid.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.RichEdit.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraBars.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraLayout.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPivotGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPrinting.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Security.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\EnvDTE.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\EnvDTE80.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraTreeList.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\VSLangProj.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraNavBar.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.CodeParser.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGauges.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.CommandBars.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\office.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Interaction.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\stdole.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Extensibility.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Xpo.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.MSXML.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\BakirAndAssociates.DatabaseUtil.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraBars.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraLayout.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPrinting.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraCharts.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraPivotGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.PivotGrid.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Utils.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraReports.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Office.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.RichEdit.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Security.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraTreeList.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraNavBar.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.DataAccess.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.XtraGauges.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.OLE.Interop.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\office.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Interaction.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Windows.Design.Extensibility.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\DevExpress.Xpo.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.ProjectAggregator.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\de\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\es\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\bin\Release\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateHoursReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateJobStatisticsReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateTrackingReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAssignments.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocAnalysisReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAudit.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectNotes.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectWebLinks.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocReport.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectDocuments.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOTProjectList.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.PresentationLayer.frmProjectOpportunity.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Properties.Resources.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityHoursTracking.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityTracking.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptOpportunityEstimateJobStatistics.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAssignments.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesAnalysis.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAudit.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectNotes.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectWebLinks.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByAssignedTo.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByDepartment.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByOffice.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByWorkType.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByStatus.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesList.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectDocumentList.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectSheet.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csproj.GenerateResource.Cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll.licenses
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.pdb

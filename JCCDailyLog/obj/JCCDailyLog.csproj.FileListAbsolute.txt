@@ -1,0 +1,85 @@
+C:\CCEJobs\JCCDailyLog\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCDailyLog\bin\Release\JCCDailyLog.dll
+C:\CCEJobs\JCCDailyLog\bin\Release\JCCDailyLog.pdb
+C:\CCEJobs\JCCDailyLog\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCDailyLog\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs\JCCDailyLog\bin\Release\Security.dll
+C:\CCEJobs\JCCDailyLog\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCDailyLog\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.dll
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.pdb
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.PresentationLayer.frmDailyLog.resources
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Controls.ctlDailyLog.resources
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.dll.licenses
+C:\CCEJobs\JCCDailyLog\bin\Release\Security.pdb
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Properties.Resources.resources
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Reports.rptJobDailyLogSummaryLog.resources
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Reports.rptJobDailyLogLog.resources
+C:\CCEJobs\JCCDailyLog\bin\Release\JCCDailyLog.dll.config
+C:\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Reports.rptJobDailyLog.resources
+C:\CCEJobs\JCCDailyLog\bin\Debug\JCCDailyLog.dll.config
+C:\CCEJobs\JCCDailyLog\bin\Debug\JCCDailyLog.dll
+C:\CCEJobs\JCCDailyLog\bin\Debug\JCCDailyLog.pdb
+C:\CCEJobs\JCCDailyLog\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCDailyLog\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs\JCCDailyLog\bin\Debug\Security.dll
+C:\CCEJobs\JCCDailyLog\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCDailyLog\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCDailyLog\bin\Debug\Security.pdb
+C:\CCEJobs\JCCDailyLog\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Controls.ctlDailyLog.resources
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.PresentationLayer.frmDailyLog.resources
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Properties.Resources.resources
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Reports.rptJobDailyLogSummaryLog.resources
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Reports.rptJobDailyLogLog.resources
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Reports.rptJobDailyLog.resources
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.dll.licenses
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.dll
+C:\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Debug\JCCDailyLog.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Debug\JCCDailyLog.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Debug\JCCDailyLog.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Debug\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Debug\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Controls.ctlDailyLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.PresentationLayer.frmDailyLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Reports.rptJobDailyLogSummaryLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Reports.rptJobDailyLogLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.Reports.rptJobDailyLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Debug\JCCDailyLog.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\JCCDailyLog.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\JCCDailyLog.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\JCCDailyLog.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Controls.ctlDailyLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.PresentationLayer.frmDailyLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Reports.rptJobDailyLogSummaryLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Reports.rptJobDailyLogLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.Reports.rptJobDailyLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\obj\Release\JCCDailyLog.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\office.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\CCEJobs San Diego Production\CCEJobs\JCCDailyLog\bin\Release\office.xml

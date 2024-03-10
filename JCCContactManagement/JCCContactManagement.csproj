@@ -1,0 +1,411 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FB9885CF-9D96-43AD-AAF6-B8408B9143BF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JCCContactManagement</RootNamespace>
+    <AssemblyName>JCCContactManagement</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ContraCostaElectric.DatabaseUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ContraCostaElectric.DatabaseUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1.Wizard, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1.UI, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1.Extensions, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Security, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Security\bin\Release\Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AtefDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AtefDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BusinessLayer\Activity.cs" />
+    <Compile Include="BusinessLayer\CMActivityType.cs" />
+    <Compile Include="BusinessLayer\CMContact.cs" />
+    <Compile Include="BusinessLayer\CMDepartment.cs" />
+    <Compile Include="BusinessLayer\CMDocument.cs" />
+    <Compile Include="BusinessLayer\CMIndustry.cs" />
+    <Compile Include="BusinessLayer\CMNote.cs" />
+    <Compile Include="BusinessLayer\CMReferredBy.cs" />
+    <Compile Include="BusinessLayer\CMStatus.cs" />
+    <Compile Include="BusinessLayer\CMTerritory.cs" />
+    <Compile Include="BusinessLayer\CMTitle.cs" />
+    <Compile Include="BusinessLayer\CMCompany.cs" />
+    <Compile Include="BusinessLayer\LotusNotes.cs" />
+    <Compile Include="BusinessLayer\StaticTables.cs" />
+    <Compile Include="CCEApplication.cs" />
+    <Compile Include="Controls\ctlContactList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlContactList.Designer.cs">
+      <DependentUpon>ctlContactList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlAdHocContactReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlAdHocContactReport.Designer.cs">
+      <DependentUpon>ctlAdHocContactReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlAdHocReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlAdHocReport.Designer.cs">
+      <DependentUpon>ctlAdHocReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlCompanyContacts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlCompanyContacts.Designer.cs">
+      <DependentUpon>ctlCompanyContacts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlStaticTables.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlStaticTables.Designer.cs">
+      <DependentUpon>ctlStaticTables.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlCompanyList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlCompanyList.Designer.cs">
+      <DependentUpon>ctlCompanyList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmContact.Designer.cs">
+      <DependentUpon>frmContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmCompany.Designer.cs">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmCreateLotusFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmCreateLotusFile.Designer.cs">
+      <DependentUpon>frmCreateLotusFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmTitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmTitle.Designer.cs">
+      <DependentUpon>frmTitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmTerritory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmTerritory.Designer.cs">
+      <DependentUpon>frmTerritory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmStatus.Designer.cs">
+      <DependentUpon>frmStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmReferredBy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmReferredBy.Designer.cs">
+      <DependentUpon>frmReferredBy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmIndustry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmIndustry.Designer.cs">
+      <DependentUpon>frmIndustry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmDepartment.Designer.cs">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmActivityType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmActivityType.Designer.cs">
+      <DependentUpon>frmActivityType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactListByTerritory.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactListByTerritory.Designer.cs">
+      <DependentUpon>rptAdHocContactListByTerritory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactListByStatus.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactListByStatus.Designer.cs">
+      <DependentUpon>rptAdHocContactListByStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactListByReferredBy.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactListByReferredBy.Designer.cs">
+      <DependentUpon>rptAdHocContactListByReferredBy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactListByIndustry.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactListByIndustry.Designer.cs">
+      <DependentUpon>rptAdHocContactListByIndustry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocContactList.Designer.cs">
+      <DependentUpon>rptAdHocContactList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptAdHocCompanyListByTerritory.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocCompanyListByTerritory.Designer.cs">
+      <DependentUpon>rptAdHocCompanyListByTerritory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptAdHocCompanyListByStatus.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocCompanyListByStatus.Designer.cs">
+      <DependentUpon>rptAdHocCompanyListByStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptAdHocCompanyListByReferredBy.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocCompanyListByReferredBy.Designer.cs">
+      <DependentUpon>rptAdHocCompanyListByReferredBy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rptAdHocCompanyListByIndustry.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocCompanyListByIndustry.Designer.cs">
+      <DependentUpon>rptAdHocCompanyListByIndustry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\Reports.cs" />
+    <Compile Include="Reports\rptAdHocCompanyList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rptAdHocCompanyList.Designer.cs">
+      <DependentUpon>rptAdHocCompanyList.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\ctlContactList.resx">
+      <DependentUpon>ctlContactList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlAdHocContactReport.resx">
+      <DependentUpon>ctlAdHocContactReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlAdHocReport.resx">
+      <DependentUpon>ctlAdHocReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlCompanyContacts.resx">
+      <DependentUpon>ctlCompanyContacts.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlStaticTables.resx">
+      <DependentUpon>ctlStaticTables.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlCompanyList.resx">
+      <DependentUpon>ctlCompanyList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmContact.resx">
+      <DependentUpon>frmContact.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmCompany.resx">
+      <DependentUpon>frmCompany.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmCreateLotusFile.resx">
+      <DependentUpon>frmCreateLotusFile.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmTitle.resx">
+      <DependentUpon>frmTitle.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmTerritory.resx">
+      <DependentUpon>frmTerritory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmStatus.resx">
+      <DependentUpon>frmStatus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmReferredBy.resx">
+      <DependentUpon>frmReferredBy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmIndustry.resx">
+      <DependentUpon>frmIndustry.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmDepartment.resx">
+      <DependentUpon>frmDepartment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmActivityType.resx">
+      <DependentUpon>frmActivityType.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocContactListByTerritory.resx">
+      <DependentUpon>rptAdHocContactListByTerritory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocContactListByStatus.resx">
+      <DependentUpon>rptAdHocContactListByStatus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocContactListByReferredBy.resx">
+      <DependentUpon>rptAdHocContactListByReferredBy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocContactListByIndustry.resx">
+      <DependentUpon>rptAdHocContactListByIndustry.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocContactList.resx">
+      <DependentUpon>rptAdHocContactList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocCompanyListByTerritory.resx">
+      <DependentUpon>rptAdHocCompanyListByTerritory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocCompanyListByStatus.resx">
+      <DependentUpon>rptAdHocCompanyListByStatus.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocCompanyListByReferredBy.resx">
+      <DependentUpon>rptAdHocCompanyListByReferredBy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocCompanyListByIndustry.resx">
+      <DependentUpon>rptAdHocCompanyListByIndustry.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rptAdHocCompanyList.resx">
+      <DependentUpon>rptAdHocCompanyList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ContraCosta %28Small%29.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ContraCosta %28Small%291.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AtefDataSet.xsc">
+      <DependentUpon>AtefDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AtefDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AtefDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AtefDataSet.xss">
+      <DependentUpon>AtefDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Resources\Image.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DynaSD.BMP" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

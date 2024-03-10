@@ -1,0 +1,859 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AtefDataSet13" targetNamespace="http://tempuri.org/AtefDataSet13.xsd" xmlns:mstns="http://tempuri.org/AtefDataSet13.xsd" xmlns="http://tempuri.org/AtefDataSet13.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AtefConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="AtefConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CCEJobs.Properties.Settings.GlobalReference.Default.AtefConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblJobCostCodePhaseTableAdapter" GeneratorDataComponentClassName="tblJobCostCodePhaseTableAdapter" Name="tblJobCostCodePhase" UserDataComponentName="tblJobCostCodePhaseTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AtefConnectionString (Settings)" DbObjectName="Atef.dbo.tblJobCostCodePhase" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="True" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <DeleteCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>DELETE FROM [dbo].[tblJobCostCodePhase] WHERE (([JobCostCodePhaseID] = @Original_JobCostCodePhaseID) AND ((@IsNull_JobID = 1 AND [JobID] IS NULL) OR ([JobID] = @Original_JobID)) AND ((@IsNull_JobCostCodeType = 1 AND [JobCostCodeType] IS NULL) OR ([JobCostCodeType] = @Original_JobCostCodeType)) AND ((@IsNull_JobCostCodePhase = 1 AND [JobCostCodePhase] IS NULL) OR ([JobCostCodePhase] = @Original_JobCostCodePhase)) AND ((@IsNull_CostCode = 1 AND [CostCode] IS NULL) OR ([CostCode] = @Original_CostCode)) AND ((@IsNull_CostCodeTitle = 1 AND [CostCodeTitle] IS NULL) OR ([CostCodeTitle] = @Original_CostCodeTitle)) AND ((@IsNull_CostCodeDescription = 1 AND [CostCodeDescription] IS NULL) OR ([CostCodeDescription] = @Original_CostCodeDescription)) AND ((@IsNull_UserDescription = 1 AND [UserDescription] IS NULL) OR ([UserDescription] = @Original_UserDescription)) AND ((@IsNull_Unit = 1 AND [Unit] IS NULL) OR ([Unit] = @Original_Unit)) AND ((@IsNull_OriginalContractHours = 1 AND [OriginalContractHours] IS NULL) OR ([OriginalContractHours] = @Original_OriginalContractHours)) AND ((@IsNull_OriginalContractQuantity = 1 AND [OriginalContractQuantity] IS NULL) OR ([OriginalContractQuantity] = @Original_OriginalContractQuantity)) AND ((@IsNull_OriginalContractCost = 1 AND [OriginalContractCost] IS NULL) OR ([OriginalContractCost] = @Original_OriginalContractCost)) AND ((@IsNull_ApprovedChangeOrderHours = 1 AND [ApprovedChangeOrderHours] IS NULL) OR ([ApprovedChangeOrderHours] = @Original_ApprovedChangeOrderHours)) AND ((@IsNull_ApprovedChangeOrderQuantity = 1 AND [ApprovedChangeOrderQuantity] IS NULL) OR ([ApprovedChangeOrderQuantity] = @Original_ApprovedChangeOrderQuantity)) AND ((@IsNull_ApprovedChangeOrderCost = 1 AND [ApprovedChangeOrderCost] IS NULL) OR ([ApprovedChangeOrderCost] = @Original_ApprovedChangeOrderCost)) AND ((@IsNull_PendingWithProceedHours = 1 AND [PendingWithProceedHours] IS NULL) OR ([PendingWithProceedHours] = @Original_PendingWithProceedHours)) AND ((@IsNull_PendingWithProceedQuantity = 1 AND [PendingWithProceedQuantity] IS NULL) OR ([PendingWithProceedQuantity] = @Original_PendingWithProceedQuantity)) AND ((@IsNull_PendingWithProceedCost = 1 AND [PendingWithProceedCost] IS NULL) OR ([PendingWithProceedCost] = @Original_PendingWithProceedCost)) AND ((@IsNull_PendingNoProceedHours = 1 AND [PendingNoProceedHours] IS NULL) OR ([PendingNoProceedHours] = @Original_PendingNoProceedHours)) AND ((@IsNull_PendingNoProceedQuantity = 1 AND [PendingNoProceedQuantity] IS NULL) OR ([PendingNoProceedQuantity] = @Original_PendingNoProceedQuantity)) AND ((@IsNull_PendingNoProceedCost = 1 AND [PendingNoProceedCost] IS NULL) OR ([PendingNoProceedCost] = @Original_PendingNoProceedCost)) AND ((@IsNull_QuantityAdjustment = 1 AND [QuantityAdjustment] IS NULL) OR ([QuantityAdjustment] = @Original_QuantityAdjustment)) AND ((@IsNull_TotalBudgetHours = 1 AND [TotalBudgetHours] IS NULL) OR ([TotalBudgetHours] = @Original_TotalBudgetHours)) AND ((@IsNull_TotalBudgetQuantity = 1 AND [TotalBudgetQuantity] IS NULL) OR ([TotalBudgetQuantity] = @Original_TotalBudgetQuantity)) AND ((@IsNull_TotalBudgetCost = 1 AND [TotalBudgetCost] IS NULL) OR ([TotalBudgetCost] = @Original_TotalBudgetCost)) AND ((@IsNull_CommittedHours = 1 AND [CommittedHours] IS NULL) OR ([CommittedHours] = @Original_CommittedHours)) AND ((@IsNull_CommittedQuantity = 1 AND [CommittedQuantity] IS NULL) OR ([CommittedQuantity] = @Original_CommittedQuantity)) AND ((@IsNull_Cost = 1 AND [Cost] IS NULL) OR ([Cost] = @Original_Cost)) AND ((@IsNull_OpenCommitment = 1 AND [OpenCommitment] IS NULL) OR ([OpenCommitment] = @Original_OpenCommitment)) AND ((@IsNull_UsedHoursPercentage = 1 AND [UsedHoursPercentage] IS NULL) OR ([UsedHoursPercentage] = @Original_UsedHoursPercentage)) AND ((@IsNull_UsedQuantityPercentage = 1 AND [UsedQuantityPercentage] IS NULL) OR ([UsedQuantityPercentage] = @Original_UsedQuantityPercentage)) AND ((@IsNull_EstimatedPerformanceFactor = 1 AND [EstimatedPerformanceFactor] IS NULL) OR ([EstimatedPerformanceFactor] = @Original_EstimatedPerformanceFactor)) AND ((@IsNull_DifferentialHours = 1 AND [DifferentialHours] IS NULL) OR ([DifferentialHours] = @Original_DifferentialHours)) AND ((@IsNull_CurrentPerformanceHours = 1 AND [CurrentPerformanceHours] IS NULL) OR ([CurrentPerformanceHours] = @Original_CurrentPerformanceHours)) AND ((@IsNull_ProjectedTotalHours = 1 AND [ProjectedTotalHours] IS NULL) OR ([ProjectedTotalHours] = @Original_ProjectedTotalHours)) AND ((@IsNull_ProjectedCAC = 1 AND [ProjectedCAC] IS NULL) OR ([ProjectedCAC] = @Original_ProjectedCAC)) AND ((@IsNull_RevisedCACMonthend = 1 AND [RevisedCACMonthend] IS NULL) OR ([RevisedCACMonthend] = @Original_RevisedCACMonthend)) AND ((@IsNull_ProjectedOverUnder = 1 AND [ProjectedOverUnder] IS NULL) OR ([ProjectedOverUnder] = @Original_ProjectedOverUnder)) AND ((@IsNull_ValueAdjustment = 1 AND [ValueAdjustment] IS NULL) OR ([ValueAdjustment] = @Original_ValueAdjustment)) AND ((@IsNull_ValueAdjustmentPercentage = 1 AND [ValueAdjustmentPercentage] IS NULL) OR ([ValueAdjustmentPercentage] = @Original_ValueAdjustmentPercentage)) AND ((@IsNull_RevisedCAC = 1 AND [RevisedCAC] IS NULL) OR ([RevisedCAC] = @Original_RevisedCAC)) AND ((@IsNull_RevisedOverUnder = 1 AND [RevisedOverUnder] IS NULL) OR ([RevisedOverUnder] = @Original_RevisedOverUnder)) AND ((@IsNull_RevisedPerformanceFactor = 1 AND [RevisedPerformanceFactor] IS NULL) OR ([RevisedPerformanceFactor] = @Original_RevisedPerformanceFactor)) AND ((@IsNull_Selected = 1 AND [Selected] IS NULL) OR ([Selected] = @Original_Selected)) AND ((@IsNull_MonthendCAC = 1 AND [MonthendCAC] IS NULL) OR ([MonthendCAC] = @Original_MonthendCAC)) AND ((@IsNull_MonthendValueAdjustment = 1 AND [MonthendValueAdjustment] IS NULL) OR ([MonthendValueAdjustment] = @Original_MonthendValueAdjustment)) AND ((@IsNull_ActualCostPlusCommitment = 1 AND [ActualCostPlusCommitment] IS NULL) OR ([ActualCostPlusCommitment] = @Original_ActualCostPlusCommitment)) AND ((@IsNull_UpdateMonthendValueAdjustment = 1 AND [UpdateMonthendValueAdjustment] IS NULL) OR ([UpdateMonthendValueAdjustment] = @Original_UpdateMonthendValueAdjustment)) AND ((@IsNull_BudgetLaborUnit = 1 AND [BudgetLaborUnit] IS NULL) OR ([BudgetLaborUnit] = @Original_BudgetLaborUnit)) AND ((@IsNull_ActualLaborUnit = 1 AND [ActualLaborUnit] IS NULL) OR ([ActualLaborUnit] = @Original_ActualLaborUnit)))</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_JobCostCodePhaseID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobCostCodePhaseID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_JobID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_JobID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_JobCostCodeType" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobCostCodeType" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_JobCostCodeType" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="JobCostCodeType" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_JobCostCodePhase" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobCostCodePhase" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_JobCostCodePhase" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="JobCostCodePhase" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CostCode" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CostCode" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_CostCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="CostCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CostCodeTitle" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CostCodeTitle" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_CostCodeTitle" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="CostCodeTitle" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CostCodeDescription" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CostCodeDescription" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_CostCodeDescription" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="CostCodeDescription" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_UserDescription" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="UserDescription" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_UserDescription" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="UserDescription" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_Unit" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Unit" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_Unit" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="Unit" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_OriginalContractHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_OriginalContractHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_OriginalContractQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_OriginalContractQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_OriginalContractCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_OriginalContractCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="OriginalContractCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ApprovedChangeOrderHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_ApprovedChangeOrderHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ApprovedChangeOrderQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_ApprovedChangeOrderQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ApprovedChangeOrderCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ApprovedChangeOrderCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingWithProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_PendingWithProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingWithProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_PendingWithProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingWithProceedCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_PendingWithProceedCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="PendingWithProceedCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingNoProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_PendingNoProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingNoProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_PendingNoProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingNoProceedCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_PendingNoProceedCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="PendingNoProceedCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_QuantityAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="QuantityAdjustment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_QuantityAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="QuantityAdjustment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_TotalBudgetHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_TotalBudgetHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_TotalBudgetQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_TotalBudgetQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_TotalBudgetCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_TotalBudgetCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="TotalBudgetCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CommittedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_CommittedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CommittedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_CommittedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_Cost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Cost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_Cost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="Cost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_OpenCommitment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OpenCommitment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_OpenCommitment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="OpenCommitment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_UsedHoursPercentage" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="UsedHoursPercentage" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_UsedHoursPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="UsedHoursPercentage" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_UsedQuantityPercentage" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="UsedQuantityPercentage" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_UsedQuantityPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="UsedQuantityPercentage" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_EstimatedPerformanceFactor" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="EstimatedPerformanceFactor" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_EstimatedPerformanceFactor" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="EstimatedPerformanceFactor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_DifferentialHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="DifferentialHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_DifferentialHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="DifferentialHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CurrentPerformanceHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CurrentPerformanceHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_CurrentPerformanceHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="CurrentPerformanceHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ProjectedTotalHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ProjectedTotalHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ProjectedTotalHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedTotalHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ProjectedCAC" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ProjectedCAC" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ProjectedCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedCAC" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_RevisedCACMonthend" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="RevisedCACMonthend" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_RevisedCACMonthend" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedCACMonthend" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ProjectedOverUnder" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ProjectedOverUnder" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ProjectedOverUnder" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedOverUnder" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ValueAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ValueAdjustment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ValueAdjustment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ValueAdjustmentPercentage" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ValueAdjustmentPercentage" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ValueAdjustmentPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ValueAdjustmentPercentage" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_RevisedCAC" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="RevisedCAC" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_RevisedCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedCAC" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_RevisedOverUnder" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="RevisedOverUnder" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_RevisedOverUnder" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedOverUnder" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_RevisedPerformanceFactor" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="RevisedPerformanceFactor" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_RevisedPerformanceFactor" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedPerformanceFactor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_Selected" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Selected" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_Selected" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="Selected" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_MonthendCAC" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="MonthendCAC" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_MonthendCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="MonthendCAC" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_MonthendValueAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="MonthendValueAdjustment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_MonthendValueAdjustment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="MonthendValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ActualCostPlusCommitment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ActualCostPlusCommitment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ActualCostPlusCommitment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ActualCostPlusCommitment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_UpdateMonthendValueAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="UpdateMonthendValueAdjustment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_UpdateMonthendValueAdjustment" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="UpdateMonthendValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_BudgetLaborUnit" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="BudgetLaborUnit" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_BudgetLaborUnit" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="BudgetLaborUnit" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ActualLaborUnit" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ActualLaborUnit" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ActualLaborUnit" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ActualLaborUnit" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </DeleteCommand>
+                <InsertCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>INSERT INTO [dbo].[tblJobCostCodePhase] ([JobID], [JobCostCodeType], [JobCostCodePhase], [CostCode], [CostCodeTitle], [CostCodeDescription], [UserDescription], [Unit], [OriginalContractHours], [OriginalContractQuantity], [OriginalContractCost], [ApprovedChangeOrderHours], [ApprovedChangeOrderQuantity], [ApprovedChangeOrderCost], [PendingWithProceedHours], [PendingWithProceedQuantity], [PendingWithProceedCost], [PendingNoProceedHours], [PendingNoProceedQuantity], [PendingNoProceedCost], [QuantityAdjustment], [TotalBudgetHours], [TotalBudgetQuantity], [TotalBudgetCost], [CommittedHours], [CommittedQuantity], [Cost], [OpenCommitment], [UsedHoursPercentage], [UsedQuantityPercentage], [EstimatedPerformanceFactor], [DifferentialHours], [CurrentPerformanceHours], [ProjectedTotalHours], [ProjectedCAC], [RevisedCACMonthend], [ProjectedOverUnder], [ValueAdjustment], [ValueAdjustmentPercentage], [RevisedCAC], [RevisedOverUnder], [RevisedPerformanceFactor], [Selected], [MonthendCAC], [MonthendValueAdjustment], [ActualCostPlusCommitment], [UpdateMonthendValueAdjustment], [BudgetLaborUnit], [ActualLaborUnit]) VALUES (@JobID, @JobCostCodeType, @JobCostCodePhase, @CostCode, @CostCodeTitle, @CostCodeDescription, @UserDescription, @Unit, @OriginalContractHours, @OriginalContractQuantity, @OriginalContractCost, @ApprovedChangeOrderHours, @ApprovedChangeOrderQuantity, @ApprovedChangeOrderCost, @PendingWithProceedHours, @PendingWithProceedQuantity, @PendingWithProceedCost, @PendingNoProceedHours, @PendingNoProceedQuantity, @PendingNoProceedCost, @QuantityAdjustment, @TotalBudgetHours, @TotalBudgetQuantity, @TotalBudgetCost, @CommittedHours, @CommittedQuantity, @Cost, @OpenCommitment, @UsedHoursPercentage, @UsedQuantityPercentage, @EstimatedPerformanceFactor, @DifferentialHours, @CurrentPerformanceHours, @ProjectedTotalHours, @ProjectedCAC, @RevisedCACMonthend, @ProjectedOverUnder, @ValueAdjustment, @ValueAdjustmentPercentage, @RevisedCAC, @RevisedOverUnder, @RevisedPerformanceFactor, @Selected, @MonthendCAC, @MonthendValueAdjustment, @ActualCostPlusCommitment, @UpdateMonthendValueAdjustment, @BudgetLaborUnit, @ActualLaborUnit);
+SELECT JobCostCodePhaseID, JobID, JobCostCodeType, JobCostCodePhase, CostCode, CostCodeTitle, CostCodeDescription, UserDescription, Unit, OriginalContractHours, OriginalContractQuantity, OriginalContractCost, ApprovedChangeOrderHours, ApprovedChangeOrderQuantity, ApprovedChangeOrderCost, PendingWithProceedHours, PendingWithProceedQuantity, PendingWithProceedCost, PendingNoProceedHours, PendingNoProceedQuantity, PendingNoProceedCost, QuantityAdjustment, TotalBudgetHours, TotalBudgetQuantity, TotalBudgetCost, CommittedHours, CommittedQuantity, Cost, OpenCommitment, UsedHoursPercentage, UsedQuantityPercentage, EstimatedPerformanceFactor, DifferentialHours, CurrentPerformanceHours, ProjectedTotalHours, ProjectedCAC, RevisedCACMonthend, ProjectedOverUnder, ValueAdjustment, ValueAdjustmentPercentage, RevisedCAC, RevisedOverUnder, RevisedPerformanceFactor, Selected, MonthendCAC, MonthendValueAdjustment, ActualCostPlusCommitment, UpdateMonthendValueAdjustment, BudgetLaborUnit, ActualLaborUnit FROM tblJobCostCodePhase WHERE (JobCostCodePhaseID = SCOPE_IDENTITY())</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@JobID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@JobCostCodeType" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="JobCostCodeType" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@JobCostCodePhase" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="JobCostCodePhase" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@CostCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="CostCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@CostCodeTitle" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="CostCodeTitle" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@CostCodeDescription" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="CostCodeDescription" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@UserDescription" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="UserDescription" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Unit" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="Unit" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@OriginalContractHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@OriginalContractQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@OriginalContractCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="OriginalContractCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@ApprovedChangeOrderHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@ApprovedChangeOrderQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ApprovedChangeOrderCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@PendingWithProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@PendingWithProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@PendingWithProceedCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="PendingWithProceedCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@PendingNoProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@PendingNoProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@PendingNoProceedCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="PendingNoProceedCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@QuantityAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="QuantityAdjustment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@TotalBudgetHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@TotalBudgetQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@TotalBudgetCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="TotalBudgetCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@CommittedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@CommittedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Cost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="Cost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@OpenCommitment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="OpenCommitment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@UsedHoursPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="UsedHoursPercentage" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@UsedQuantityPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="UsedQuantityPercentage" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@EstimatedPerformanceFactor" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="EstimatedPerformanceFactor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@DifferentialHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="DifferentialHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@CurrentPerformanceHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="CurrentPerformanceHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ProjectedTotalHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedTotalHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ProjectedCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedCAC" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@RevisedCACMonthend" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedCACMonthend" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ProjectedOverUnder" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedOverUnder" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ValueAdjustment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ValueAdjustmentPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ValueAdjustmentPercentage" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@RevisedCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedCAC" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@RevisedOverUnder" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedOverUnder" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@RevisedPerformanceFactor" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedPerformanceFactor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Selected" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="Selected" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@MonthendCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="MonthendCAC" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@MonthendValueAdjustment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="MonthendValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ActualCostPlusCommitment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ActualCostPlusCommitment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@UpdateMonthendValueAdjustment" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="UpdateMonthendValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@BudgetLaborUnit" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="BudgetLaborUnit" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ActualLaborUnit" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ActualLaborUnit" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </InsertCommand>
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>SELECT JobCostCodePhaseID, JobID, JobCostCodeType, JobCostCodePhase, CostCode, CostCodeTitle, CostCodeDescription, UserDescription, Unit, OriginalContractHours, OriginalContractQuantity, OriginalContractCost, ApprovedChangeOrderHours, ApprovedChangeOrderQuantity, ApprovedChangeOrderCost, PendingWithProceedHours, PendingWithProceedQuantity, PendingWithProceedCost, PendingNoProceedHours, PendingNoProceedQuantity, PendingNoProceedCost, QuantityAdjustment, TotalBudgetHours, TotalBudgetQuantity, TotalBudgetCost, CommittedHours, CommittedQuantity, Cost, OpenCommitment, UsedHoursPercentage, UsedQuantityPercentage, EstimatedPerformanceFactor, DifferentialHours, CurrentPerformanceHours, ProjectedTotalHours, ProjectedCAC, RevisedCACMonthend, ProjectedOverUnder, ValueAdjustment, ValueAdjustmentPercentage, RevisedCAC, RevisedOverUnder, RevisedPerformanceFactor, Selected, MonthendCAC, MonthendValueAdjustment, ActualCostPlusCommitment, UpdateMonthendValueAdjustment, BudgetLaborUnit, ActualLaborUnit FROM dbo.tblJobCostCodePhase</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+                <UpdateCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="False">
+                    <CommandText>UPDATE [dbo].[tblJobCostCodePhase] SET [JobID] = @JobID, [JobCostCodeType] = @JobCostCodeType, [JobCostCodePhase] = @JobCostCodePhase, [CostCode] = @CostCode, [CostCodeTitle] = @CostCodeTitle, [CostCodeDescription] = @CostCodeDescription, [UserDescription] = @UserDescription, [Unit] = @Unit, [OriginalContractHours] = @OriginalContractHours, [OriginalContractQuantity] = @OriginalContractQuantity, [OriginalContractCost] = @OriginalContractCost, [ApprovedChangeOrderHours] = @ApprovedChangeOrderHours, [ApprovedChangeOrderQuantity] = @ApprovedChangeOrderQuantity, [ApprovedChangeOrderCost] = @ApprovedChangeOrderCost, [PendingWithProceedHours] = @PendingWithProceedHours, [PendingWithProceedQuantity] = @PendingWithProceedQuantity, [PendingWithProceedCost] = @PendingWithProceedCost, [PendingNoProceedHours] = @PendingNoProceedHours, [PendingNoProceedQuantity] = @PendingNoProceedQuantity, [PendingNoProceedCost] = @PendingNoProceedCost, [QuantityAdjustment] = @QuantityAdjustment, [TotalBudgetHours] = @TotalBudgetHours, [TotalBudgetQuantity] = @TotalBudgetQuantity, [TotalBudgetCost] = @TotalBudgetCost, [CommittedHours] = @CommittedHours, [CommittedQuantity] = @CommittedQuantity, [Cost] = @Cost, [OpenCommitment] = @OpenCommitment, [UsedHoursPercentage] = @UsedHoursPercentage, [UsedQuantityPercentage] = @UsedQuantityPercentage, [EstimatedPerformanceFactor] = @EstimatedPerformanceFactor, [DifferentialHours] = @DifferentialHours, [CurrentPerformanceHours] = @CurrentPerformanceHours, [ProjectedTotalHours] = @ProjectedTotalHours, [ProjectedCAC] = @ProjectedCAC, [RevisedCACMonthend] = @RevisedCACMonthend, [ProjectedOverUnder] = @ProjectedOverUnder, [ValueAdjustment] = @ValueAdjustment, [ValueAdjustmentPercentage] = @ValueAdjustmentPercentage, [RevisedCAC] = @RevisedCAC, [RevisedOverUnder] = @RevisedOverUnder, [RevisedPerformanceFactor] = @RevisedPerformanceFactor, [Selected] = @Selected, [MonthendCAC] = @MonthendCAC, [MonthendValueAdjustment] = @MonthendValueAdjustment, [ActualCostPlusCommitment] = @ActualCostPlusCommitment, [UpdateMonthendValueAdjustment] = @UpdateMonthendValueAdjustment, [BudgetLaborUnit] = @BudgetLaborUnit, [ActualLaborUnit] = @ActualLaborUnit WHERE (([JobCostCodePhaseID] = @Original_JobCostCodePhaseID) AND ((@IsNull_JobID = 1 AND [JobID] IS NULL) OR ([JobID] = @Original_JobID)) AND ((@IsNull_JobCostCodeType = 1 AND [JobCostCodeType] IS NULL) OR ([JobCostCodeType] = @Original_JobCostCodeType)) AND ((@IsNull_JobCostCodePhase = 1 AND [JobCostCodePhase] IS NULL) OR ([JobCostCodePhase] = @Original_JobCostCodePhase)) AND ((@IsNull_CostCode = 1 AND [CostCode] IS NULL) OR ([CostCode] = @Original_CostCode)) AND ((@IsNull_CostCodeTitle = 1 AND [CostCodeTitle] IS NULL) OR ([CostCodeTitle] = @Original_CostCodeTitle)) AND ((@IsNull_CostCodeDescription = 1 AND [CostCodeDescription] IS NULL) OR ([CostCodeDescription] = @Original_CostCodeDescription)) AND ((@IsNull_UserDescription = 1 AND [UserDescription] IS NULL) OR ([UserDescription] = @Original_UserDescription)) AND ((@IsNull_Unit = 1 AND [Unit] IS NULL) OR ([Unit] = @Original_Unit)) AND ((@IsNull_OriginalContractHours = 1 AND [OriginalContractHours] IS NULL) OR ([OriginalContractHours] = @Original_OriginalContractHours)) AND ((@IsNull_OriginalContractQuantity = 1 AND [OriginalContractQuantity] IS NULL) OR ([OriginalContractQuantity] = @Original_OriginalContractQuantity)) AND ((@IsNull_OriginalContractCost = 1 AND [OriginalContractCost] IS NULL) OR ([OriginalContractCost] = @Original_OriginalContractCost)) AND ((@IsNull_ApprovedChangeOrderHours = 1 AND [ApprovedChangeOrderHours] IS NULL) OR ([ApprovedChangeOrderHours] = @Original_ApprovedChangeOrderHours)) AND ((@IsNull_ApprovedChangeOrderQuantity = 1 AND [ApprovedChangeOrderQuantity] IS NULL) OR ([ApprovedChangeOrderQuantity] = @Original_ApprovedChangeOrderQuantity)) AND ((@IsNull_ApprovedChangeOrderCost = 1 AND [ApprovedChangeOrderCost] IS NULL) OR ([ApprovedChangeOrderCost] = @Original_ApprovedChangeOrderCost)) AND ((@IsNull_PendingWithProceedHours = 1 AND [PendingWithProceedHours] IS NULL) OR ([PendingWithProceedHours] = @Original_PendingWithProceedHours)) AND ((@IsNull_PendingWithProceedQuantity = 1 AND [PendingWithProceedQuantity] IS NULL) OR ([PendingWithProceedQuantity] = @Original_PendingWithProceedQuantity)) AND ((@IsNull_PendingWithProceedCost = 1 AND [PendingWithProceedCost] IS NULL) OR ([PendingWithProceedCost] = @Original_PendingWithProceedCost)) AND ((@IsNull_PendingNoProceedHours = 1 AND [PendingNoProceedHours] IS NULL) OR ([PendingNoProceedHours] = @Original_PendingNoProceedHours)) AND ((@IsNull_PendingNoProceedQuantity = 1 AND [PendingNoProceedQuantity] IS NULL) OR ([PendingNoProceedQuantity] = @Original_PendingNoProceedQuantity)) AND ((@IsNull_PendingNoProceedCost = 1 AND [PendingNoProceedCost] IS NULL) OR ([PendingNoProceedCost] = @Original_PendingNoProceedCost)) AND ((@IsNull_QuantityAdjustment = 1 AND [QuantityAdjustment] IS NULL) OR ([QuantityAdjustment] = @Original_QuantityAdjustment)) AND ((@IsNull_TotalBudgetHours = 1 AND [TotalBudgetHours] IS NULL) OR ([TotalBudgetHours] = @Original_TotalBudgetHours)) AND ((@IsNull_TotalBudgetQuantity = 1 AND [TotalBudgetQuantity] IS NULL) OR ([TotalBudgetQuantity] = @Original_TotalBudgetQuantity)) AND ((@IsNull_TotalBudgetCost = 1 AND [TotalBudgetCost] IS NULL) OR ([TotalBudgetCost] = @Original_TotalBudgetCost)) AND ((@IsNull_CommittedHours = 1 AND [CommittedHours] IS NULL) OR ([CommittedHours] = @Original_CommittedHours)) AND ((@IsNull_CommittedQuantity = 1 AND [CommittedQuantity] IS NULL) OR ([CommittedQuantity] = @Original_CommittedQuantity)) AND ((@IsNull_Cost = 1 AND [Cost] IS NULL) OR ([Cost] = @Original_Cost)) AND ((@IsNull_OpenCommitment = 1 AND [OpenCommitment] IS NULL) OR ([OpenCommitment] = @Original_OpenCommitment)) AND ((@IsNull_UsedHoursPercentage = 1 AND [UsedHoursPercentage] IS NULL) OR ([UsedHoursPercentage] = @Original_UsedHoursPercentage)) AND ((@IsNull_UsedQuantityPercentage = 1 AND [UsedQuantityPercentage] IS NULL) OR ([UsedQuantityPercentage] = @Original_UsedQuantityPercentage)) AND ((@IsNull_EstimatedPerformanceFactor = 1 AND [EstimatedPerformanceFactor] IS NULL) OR ([EstimatedPerformanceFactor] = @Original_EstimatedPerformanceFactor)) AND ((@IsNull_DifferentialHours = 1 AND [DifferentialHours] IS NULL) OR ([DifferentialHours] = @Original_DifferentialHours)) AND ((@IsNull_CurrentPerformanceHours = 1 AND [CurrentPerformanceHours] IS NULL) OR ([CurrentPerformanceHours] = @Original_CurrentPerformanceHours)) AND ((@IsNull_ProjectedTotalHours = 1 AND [ProjectedTotalHours] IS NULL) OR ([ProjectedTotalHours] = @Original_ProjectedTotalHours)) AND ((@IsNull_ProjectedCAC = 1 AND [ProjectedCAC] IS NULL) OR ([ProjectedCAC] = @Original_ProjectedCAC)) AND ((@IsNull_RevisedCACMonthend = 1 AND [RevisedCACMonthend] IS NULL) OR ([RevisedCACMonthend] = @Original_RevisedCACMonthend)) AND ((@IsNull_ProjectedOverUnder = 1 AND [ProjectedOverUnder] IS NULL) OR ([ProjectedOverUnder] = @Original_ProjectedOverUnder)) AND ((@IsNull_ValueAdjustment = 1 AND [ValueAdjustment] IS NULL) OR ([ValueAdjustment] = @Original_ValueAdjustment)) AND ((@IsNull_ValueAdjustmentPercentage = 1 AND [ValueAdjustmentPercentage] IS NULL) OR ([ValueAdjustmentPercentage] = @Original_ValueAdjustmentPercentage)) AND ((@IsNull_RevisedCAC = 1 AND [RevisedCAC] IS NULL) OR ([RevisedCAC] = @Original_RevisedCAC)) AND ((@IsNull_RevisedOverUnder = 1 AND [RevisedOverUnder] IS NULL) OR ([RevisedOverUnder] = @Original_RevisedOverUnder)) AND ((@IsNull_RevisedPerformanceFactor = 1 AND [RevisedPerformanceFactor] IS NULL) OR ([RevisedPerformanceFactor] = @Original_RevisedPerformanceFactor)) AND ((@IsNull_Selected = 1 AND [Selected] IS NULL) OR ([Selected] = @Original_Selected)) AND ((@IsNull_MonthendCAC = 1 AND [MonthendCAC] IS NULL) OR ([MonthendCAC] = @Original_MonthendCAC)) AND ((@IsNull_MonthendValueAdjustment = 1 AND [MonthendValueAdjustment] IS NULL) OR ([MonthendValueAdjustment] = @Original_MonthendValueAdjustment)) AND ((@IsNull_ActualCostPlusCommitment = 1 AND [ActualCostPlusCommitment] IS NULL) OR ([ActualCostPlusCommitment] = @Original_ActualCostPlusCommitment)) AND ((@IsNull_UpdateMonthendValueAdjustment = 1 AND [UpdateMonthendValueAdjustment] IS NULL) OR ([UpdateMonthendValueAdjustment] = @Original_UpdateMonthendValueAdjustment)) AND ((@IsNull_BudgetLaborUnit = 1 AND [BudgetLaborUnit] IS NULL) OR ([BudgetLaborUnit] = @Original_BudgetLaborUnit)) AND ((@IsNull_ActualLaborUnit = 1 AND [ActualLaborUnit] IS NULL) OR ([ActualLaborUnit] = @Original_ActualLaborUnit)));
+SELECT JobCostCodePhaseID, JobID, JobCostCodeType, JobCostCodePhase, CostCode, CostCodeTitle, CostCodeDescription, UserDescription, Unit, OriginalContractHours, OriginalContractQuantity, OriginalContractCost, ApprovedChangeOrderHours, ApprovedChangeOrderQuantity, ApprovedChangeOrderCost, PendingWithProceedHours, PendingWithProceedQuantity, PendingWithProceedCost, PendingNoProceedHours, PendingNoProceedQuantity, PendingNoProceedCost, QuantityAdjustment, TotalBudgetHours, TotalBudgetQuantity, TotalBudgetCost, CommittedHours, CommittedQuantity, Cost, OpenCommitment, UsedHoursPercentage, UsedQuantityPercentage, EstimatedPerformanceFactor, DifferentialHours, CurrentPerformanceHours, ProjectedTotalHours, ProjectedCAC, RevisedCACMonthend, ProjectedOverUnder, ValueAdjustment, ValueAdjustmentPercentage, RevisedCAC, RevisedOverUnder, RevisedPerformanceFactor, Selected, MonthendCAC, MonthendValueAdjustment, ActualCostPlusCommitment, UpdateMonthendValueAdjustment, BudgetLaborUnit, ActualLaborUnit FROM tblJobCostCodePhase WHERE (JobCostCodePhaseID = @JobCostCodePhaseID)</CommandText>
+                    <Parameters>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@JobID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@JobCostCodeType" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="JobCostCodeType" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@JobCostCodePhase" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="JobCostCodePhase" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@CostCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="CostCode" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@CostCodeTitle" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="CostCodeTitle" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@CostCodeDescription" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="CostCodeDescription" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@UserDescription" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="UserDescription" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Unit" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="Unit" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@OriginalContractHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@OriginalContractQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@OriginalContractCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="OriginalContractCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@ApprovedChangeOrderHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@ApprovedChangeOrderQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ApprovedChangeOrderCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@PendingWithProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@PendingWithProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@PendingWithProceedCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="PendingWithProceedCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@PendingNoProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@PendingNoProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@PendingNoProceedCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="PendingNoProceedCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@QuantityAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="QuantityAdjustment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@TotalBudgetHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@TotalBudgetQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@TotalBudgetCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="TotalBudgetCost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@CommittedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@CommittedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedQuantity" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Cost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="Cost" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@OpenCommitment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="OpenCommitment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@UsedHoursPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="UsedHoursPercentage" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@UsedQuantityPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="UsedQuantityPercentage" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@EstimatedPerformanceFactor" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="EstimatedPerformanceFactor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@DifferentialHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="DifferentialHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@CurrentPerformanceHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="CurrentPerformanceHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ProjectedTotalHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedTotalHours" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ProjectedCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedCAC" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@RevisedCACMonthend" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedCACMonthend" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ProjectedOverUnder" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedOverUnder" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ValueAdjustment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ValueAdjustmentPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ValueAdjustmentPercentage" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@RevisedCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedCAC" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@RevisedOverUnder" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedOverUnder" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@RevisedPerformanceFactor" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedPerformanceFactor" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Selected" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="Selected" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@MonthendCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="MonthendCAC" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@MonthendValueAdjustment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="MonthendValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ActualCostPlusCommitment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ActualCostPlusCommitment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@UpdateMonthendValueAdjustment" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="UpdateMonthendValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@BudgetLaborUnit" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="BudgetLaborUnit" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@ActualLaborUnit" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ActualLaborUnit" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_JobCostCodePhaseID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobCostCodePhaseID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_JobID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobID" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_JobID" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobID" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_JobCostCodeType" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobCostCodeType" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_JobCostCodeType" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="JobCostCodeType" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_JobCostCodePhase" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="JobCostCodePhase" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_JobCostCodePhase" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="JobCostCodePhase" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CostCode" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CostCode" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_CostCode" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="CostCode" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CostCodeTitle" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CostCodeTitle" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_CostCodeTitle" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="CostCodeTitle" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CostCodeDescription" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CostCodeDescription" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_CostCodeDescription" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="CostCodeDescription" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_UserDescription" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="UserDescription" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiString" Direction="Input" ParameterName="@Original_UserDescription" Precision="0" ProviderType="VarChar" Scale="0" Size="0" SourceColumn="UserDescription" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_Unit" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Unit" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="AnsiStringFixedLength" Direction="Input" ParameterName="@Original_Unit" Precision="0" ProviderType="Char" Scale="0" Size="0" SourceColumn="Unit" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_OriginalContractHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_OriginalContractHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_OriginalContractQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_OriginalContractQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_OriginalContractCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OriginalContractCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_OriginalContractCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="OriginalContractCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ApprovedChangeOrderHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_ApprovedChangeOrderHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ApprovedChangeOrderQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_ApprovedChangeOrderQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ApprovedChangeOrderCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ApprovedChangeOrderCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ApprovedChangeOrderCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingWithProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_PendingWithProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingWithProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_PendingWithProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingWithProceedCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingWithProceedCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_PendingWithProceedCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="PendingWithProceedCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingNoProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_PendingNoProceedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingNoProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_PendingNoProceedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_PendingNoProceedCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="PendingNoProceedCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_PendingNoProceedCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="PendingNoProceedCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_QuantityAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="QuantityAdjustment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_QuantityAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="QuantityAdjustment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_TotalBudgetHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_TotalBudgetHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_TotalBudgetQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_TotalBudgetQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_TotalBudgetCost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="TotalBudgetCost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_TotalBudgetCost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="TotalBudgetCost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CommittedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_CommittedHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CommittedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedQuantity" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@Original_CommittedQuantity" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CommittedQuantity" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_Cost" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Cost" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_Cost" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="Cost" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_OpenCommitment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="OpenCommitment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_OpenCommitment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="OpenCommitment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_UsedHoursPercentage" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="UsedHoursPercentage" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_UsedHoursPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="UsedHoursPercentage" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_UsedQuantityPercentage" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="UsedQuantityPercentage" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_UsedQuantityPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="UsedQuantityPercentage" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_EstimatedPerformanceFactor" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="EstimatedPerformanceFactor" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_EstimatedPerformanceFactor" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="EstimatedPerformanceFactor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_DifferentialHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="DifferentialHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_DifferentialHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="DifferentialHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_CurrentPerformanceHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="CurrentPerformanceHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_CurrentPerformanceHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="CurrentPerformanceHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ProjectedTotalHours" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ProjectedTotalHours" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ProjectedTotalHours" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedTotalHours" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ProjectedCAC" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ProjectedCAC" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ProjectedCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedCAC" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_RevisedCACMonthend" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="RevisedCACMonthend" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_RevisedCACMonthend" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedCACMonthend" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ProjectedOverUnder" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ProjectedOverUnder" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ProjectedOverUnder" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ProjectedOverUnder" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ValueAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ValueAdjustment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ValueAdjustment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ValueAdjustmentPercentage" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ValueAdjustmentPercentage" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ValueAdjustmentPercentage" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ValueAdjustmentPercentage" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_RevisedCAC" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="RevisedCAC" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_RevisedCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedCAC" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_RevisedOverUnder" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="RevisedOverUnder" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_RevisedOverUnder" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedOverUnder" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_RevisedPerformanceFactor" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="RevisedPerformanceFactor" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_RevisedPerformanceFactor" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="RevisedPerformanceFactor" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_Selected" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="Selected" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_Selected" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="Selected" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_MonthendCAC" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="MonthendCAC" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_MonthendCAC" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="MonthendCAC" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_MonthendValueAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="MonthendValueAdjustment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_MonthendValueAdjustment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="MonthendValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ActualCostPlusCommitment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ActualCostPlusCommitment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ActualCostPlusCommitment" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ActualCostPlusCommitment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_UpdateMonthendValueAdjustment" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="UpdateMonthendValueAdjustment" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Boolean" Direction="Input" ParameterName="@Original_UpdateMonthendValueAdjustment" Precision="0" ProviderType="Bit" Scale="0" Size="0" SourceColumn="UpdateMonthendValueAdjustment" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_BudgetLaborUnit" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="BudgetLaborUnit" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_BudgetLaborUnit" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="BudgetLaborUnit" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Int32" Direction="Input" ParameterName="@IsNull_ActualLaborUnit" Precision="0" ProviderType="Int" Scale="0" Size="0" SourceColumn="ActualLaborUnit" SourceColumnNullMapping="True" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="True" AutogeneratedName="" DataSourceName="" DbType="Double" Direction="Input" ParameterName="@Original_ActualLaborUnit" Precision="0" ProviderType="Float" Scale="0" Size="0" SourceColumn="ActualLaborUnit" SourceColumnNullMapping="False" SourceVersion="Original">
+                      </Parameter>
+                      <Parameter AllowDbNull="False" AutogeneratedName="JobCostCodePhaseID" ColumnName="JobCostCodePhaseID" DataSourceName="Atef.dbo.tblJobCostCodePhase" DataTypeServer="int" DbType="Int32" Direction="Input" ParameterName="@JobCostCodePhaseID" Precision="0" ProviderType="Int" Scale="0" Size="4" SourceColumn="JobCostCodePhaseID" SourceColumnNullMapping="False" SourceVersion="Current">
+                      </Parameter>
+                    </Parameters>
+                  </DbCommand>
+                </UpdateCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="JobCostCodePhaseID" DataSetColumn="JobCostCodePhaseID" />
+              <Mapping SourceColumn="JobID" DataSetColumn="JobID" />
+              <Mapping SourceColumn="JobCostCodeType" DataSetColumn="JobCostCodeType" />
+              <Mapping SourceColumn="JobCostCodePhase" DataSetColumn="JobCostCodePhase" />
+              <Mapping SourceColumn="CostCode" DataSetColumn="CostCode" />
+              <Mapping SourceColumn="CostCodeTitle" DataSetColumn="CostCodeTitle" />
+              <Mapping SourceColumn="CostCodeDescription" DataSetColumn="CostCodeDescription" />
+              <Mapping SourceColumn="UserDescription" DataSetColumn="UserDescription" />
+              <Mapping SourceColumn="Unit" DataSetColumn="Unit" />
+              <Mapping SourceColumn="OriginalContractHours" DataSetColumn="OriginalContractHours" />
+              <Mapping SourceColumn="OriginalContractQuantity" DataSetColumn="OriginalContractQuantity" />
+              <Mapping SourceColumn="OriginalContractCost" DataSetColumn="OriginalContractCost" />
+              <Mapping SourceColumn="ApprovedChangeOrderHours" DataSetColumn="ApprovedChangeOrderHours" />
+              <Mapping SourceColumn="ApprovedChangeOrderQuantity" DataSetColumn="ApprovedChangeOrderQuantity" />
+              <Mapping SourceColumn="ApprovedChangeOrderCost" DataSetColumn="ApprovedChangeOrderCost" />
+              <Mapping SourceColumn="PendingWithProceedHours" DataSetColumn="PendingWithProceedHours" />
+              <Mapping SourceColumn="PendingWithProceedQuantity" DataSetColumn="PendingWithProceedQuantity" />
+              <Mapping SourceColumn="PendingWithProceedCost" DataSetColumn="PendingWithProceedCost" />
+              <Mapping SourceColumn="PendingNoProceedHours" DataSetColumn="PendingNoProceedHours" />
+              <Mapping SourceColumn="PendingNoProceedQuantity" DataSetColumn="PendingNoProceedQuantity" />
+              <Mapping SourceColumn="PendingNoProceedCost" DataSetColumn="PendingNoProceedCost" />
+              <Mapping SourceColumn="QuantityAdjustment" DataSetColumn="QuantityAdjustment" />
+              <Mapping SourceColumn="TotalBudgetHours" DataSetColumn="TotalBudgetHours" />
+              <Mapping SourceColumn="TotalBudgetQuantity" DataSetColumn="TotalBudgetQuantity" />
+              <Mapping SourceColumn="TotalBudgetCost" DataSetColumn="TotalBudgetCost" />
+              <Mapping SourceColumn="CommittedHours" DataSetColumn="CommittedHours" />
+              <Mapping SourceColumn="CommittedQuantity" DataSetColumn="CommittedQuantity" />
+              <Mapping SourceColumn="Cost" DataSetColumn="Cost" />
+              <Mapping SourceColumn="OpenCommitment" DataSetColumn="OpenCommitment" />
+              <Mapping SourceColumn="UsedHoursPercentage" DataSetColumn="UsedHoursPercentage" />
+              <Mapping SourceColumn="UsedQuantityPercentage" DataSetColumn="UsedQuantityPercentage" />
+              <Mapping SourceColumn="EstimatedPerformanceFactor" DataSetColumn="EstimatedPerformanceFactor" />
+              <Mapping SourceColumn="DifferentialHours" DataSetColumn="DifferentialHours" />
+              <Mapping SourceColumn="CurrentPerformanceHours" DataSetColumn="CurrentPerformanceHours" />
+              <Mapping SourceColumn="ProjectedTotalHours" DataSetColumn="ProjectedTotalHours" />
+              <Mapping SourceColumn="ProjectedCAC" DataSetColumn="ProjectedCAC" />
+              <Mapping SourceColumn="RevisedCACMonthend" DataSetColumn="RevisedCACMonthend" />
+              <Mapping SourceColumn="ProjectedOverUnder" DataSetColumn="ProjectedOverUnder" />
+              <Mapping SourceColumn="ValueAdjustment" DataSetColumn="ValueAdjustment" />
+              <Mapping SourceColumn="ValueAdjustmentPercentage" DataSetColumn="ValueAdjustmentPercentage" />
+              <Mapping SourceColumn="RevisedCAC" DataSetColumn="RevisedCAC" />
+              <Mapping SourceColumn="RevisedOverUnder" DataSetColumn="RevisedOverUnder" />
+              <Mapping SourceColumn="RevisedPerformanceFactor" DataSetColumn="RevisedPerformanceFactor" />
+              <Mapping SourceColumn="Selected" DataSetColumn="Selected" />
+              <Mapping SourceColumn="MonthendCAC" DataSetColumn="MonthendCAC" />
+              <Mapping SourceColumn="MonthendValueAdjustment" DataSetColumn="MonthendValueAdjustment" />
+              <Mapping SourceColumn="ActualCostPlusCommitment" DataSetColumn="ActualCostPlusCommitment" />
+              <Mapping SourceColumn="UpdateMonthendValueAdjustment" DataSetColumn="UpdateMonthendValueAdjustment" />
+              <Mapping SourceColumn="BudgetLaborUnit" DataSetColumn="BudgetLaborUnit" />
+              <Mapping SourceColumn="ActualLaborUnit" DataSetColumn="ActualLaborUnit" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AtefConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="False" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT   f.JobCostCodePhaseID,  f.QuantityToDate, f.HoursToDate, Earned, LaborPerformanceFactor, Quantity, Hours, f.Weekend
+FROm tblJobCostCodesWeeklyFeedback f
+INNER JOIN tblJobCostCodesWeekly w 
+ON f.JobCostCodePhaseID = w.JobCostCodePhaseID AND f.Weekend = w.Weekend
+WHERE f.JobCostCodePhaseID = 0
+Order by f.weekend desc 
+</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="QuantityToDate" DataSetColumn="QuantityToDate" />
+              <Mapping SourceColumn="HoursToDate" DataSetColumn="HoursToDate" />
+              <Mapping SourceColumn="Earned" DataSetColumn="Earned" />
+              <Mapping SourceColumn="LaborPerformanceFactor" DataSetColumn="LaborPerformanceFactor" />
+              <Mapping SourceColumn="Quantity" DataSetColumn="Quantity" />
+              <Mapping SourceColumn="Hours" DataSetColumn="Hours" />
+              <Mapping SourceColumn="Weekend" DataSetColumn="Weekend" />
+              <Mapping SourceColumn="JobCostCodePhaseID" DataSetColumn="JobCostCodePhaseID" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AtefDataSet13" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="AtefDataSet13" msprop:Generator_DataSetName="AtefDataSet13">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblJobCostCodePhase" msprop:Generator_UserTableName="tblJobCostCodePhase" msprop:Generator_RowDeletedName="tblJobCostCodePhaseRowDeleted" msprop:Generator_RowChangedName="tblJobCostCodePhaseRowChanged" msprop:Generator_RowClassName="tblJobCostCodePhaseRow" msprop:Generator_RowChangingName="tblJobCostCodePhaseRowChanging" msprop:Generator_RowEvArgName="tblJobCostCodePhaseRowChangeEvent" msprop:Generator_RowEvHandlerName="tblJobCostCodePhaseRowChangeEventHandler" msprop:Generator_TableClassName="tblJobCostCodePhaseDataTable" msprop:Generator_TableVarName="tabletblJobCostCodePhase" msprop:Generator_RowDeletingName="tblJobCostCodePhaseRowDeleting" msprop:Generator_TablePropName="tblJobCostCodePhase">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="JobCostCodePhaseID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:Generator_UserColumnName="JobCostCodePhaseID" msprop:Generator_ColumnVarNameInTable="columnJobCostCodePhaseID" msprop:Generator_ColumnPropNameInRow="JobCostCodePhaseID" msprop:Generator_ColumnPropNameInTable="JobCostCodePhaseIDColumn" type="xs:int" />
+              <xs:element name="JobID" msprop:Generator_UserColumnName="JobID" msprop:Generator_ColumnVarNameInTable="columnJobID" msprop:Generator_ColumnPropNameInRow="JobID" msprop:Generator_ColumnPropNameInTable="JobIDColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="JobCostCodeType" msprop:Generator_UserColumnName="JobCostCodeType" msprop:Generator_ColumnVarNameInTable="columnJobCostCodeType" msprop:Generator_ColumnPropNameInRow="JobCostCodeType" msprop:Generator_ColumnPropNameInTable="JobCostCodeTypeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="JobCostCodePhase" msprop:Generator_UserColumnName="JobCostCodePhase" msprop:Generator_ColumnVarNameInTable="columnJobCostCodePhase" msprop:Generator_ColumnPropNameInRow="JobCostCodePhase" msprop:Generator_ColumnPropNameInTable="JobCostCodePhaseColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CostCode" msprop:Generator_UserColumnName="CostCode" msprop:Generator_ColumnVarNameInTable="columnCostCode" msprop:Generator_ColumnPropNameInRow="CostCode" msprop:Generator_ColumnPropNameInTable="CostCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CostCodeTitle" msprop:Generator_UserColumnName="CostCodeTitle" msprop:Generator_ColumnVarNameInTable="columnCostCodeTitle" msprop:Generator_ColumnPropNameInRow="CostCodeTitle" msprop:Generator_ColumnPropNameInTable="CostCodeTitleColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CostCodeDescription" msprop:Generator_UserColumnName="CostCodeDescription" msprop:Generator_ColumnVarNameInTable="columnCostCodeDescription" msprop:Generator_ColumnPropNameInRow="CostCodeDescription" msprop:Generator_ColumnPropNameInTable="CostCodeDescriptionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UserDescription" msprop:Generator_UserColumnName="UserDescription" msprop:Generator_ColumnVarNameInTable="columnUserDescription" msprop:Generator_ColumnPropNameInRow="UserDescription" msprop:Generator_ColumnPropNameInTable="UserDescriptionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Unit" msprop:Generator_UserColumnName="Unit" msprop:Generator_ColumnVarNameInTable="columnUnit" msprop:Generator_ColumnPropNameInRow="Unit" msprop:Generator_ColumnPropNameInTable="UnitColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="OriginalContractHours" msprop:Generator_UserColumnName="OriginalContractHours" msprop:Generator_ColumnVarNameInTable="columnOriginalContractHours" msprop:Generator_ColumnPropNameInRow="OriginalContractHours" msprop:Generator_ColumnPropNameInTable="OriginalContractHoursColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="OriginalContractQuantity" msprop:Generator_UserColumnName="OriginalContractQuantity" msprop:Generator_ColumnVarNameInTable="columnOriginalContractQuantity" msprop:Generator_ColumnPropNameInRow="OriginalContractQuantity" msprop:Generator_ColumnPropNameInTable="OriginalContractQuantityColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="OriginalContractCost" msprop:Generator_UserColumnName="OriginalContractCost" msprop:Generator_ColumnVarNameInTable="columnOriginalContractCost" msprop:Generator_ColumnPropNameInRow="OriginalContractCost" msprop:Generator_ColumnPropNameInTable="OriginalContractCostColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ApprovedChangeOrderHours" msprop:Generator_UserColumnName="ApprovedChangeOrderHours" msprop:Generator_ColumnVarNameInTable="columnApprovedChangeOrderHours" msprop:Generator_ColumnPropNameInRow="ApprovedChangeOrderHours" msprop:Generator_ColumnPropNameInTable="ApprovedChangeOrderHoursColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="ApprovedChangeOrderQuantity" msprop:Generator_UserColumnName="ApprovedChangeOrderQuantity" msprop:Generator_ColumnVarNameInTable="columnApprovedChangeOrderQuantity" msprop:Generator_ColumnPropNameInRow="ApprovedChangeOrderQuantity" msprop:Generator_ColumnPropNameInTable="ApprovedChangeOrderQuantityColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="ApprovedChangeOrderCost" msprop:Generator_UserColumnName="ApprovedChangeOrderCost" msprop:Generator_ColumnVarNameInTable="columnApprovedChangeOrderCost" msprop:Generator_ColumnPropNameInRow="ApprovedChangeOrderCost" msprop:Generator_ColumnPropNameInTable="ApprovedChangeOrderCostColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="PendingWithProceedHours" msprop:Generator_UserColumnName="PendingWithProceedHours" msprop:Generator_ColumnVarNameInTable="columnPendingWithProceedHours" msprop:Generator_ColumnPropNameInRow="PendingWithProceedHours" msprop:Generator_ColumnPropNameInTable="PendingWithProceedHoursColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PendingWithProceedQuantity" msprop:Generator_UserColumnName="PendingWithProceedQuantity" msprop:Generator_ColumnVarNameInTable="columnPendingWithProceedQuantity" msprop:Generator_ColumnPropNameInRow="PendingWithProceedQuantity" msprop:Generator_ColumnPropNameInTable="PendingWithProceedQuantityColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PendingWithProceedCost" msprop:Generator_UserColumnName="PendingWithProceedCost" msprop:Generator_ColumnVarNameInTable="columnPendingWithProceedCost" msprop:Generator_ColumnPropNameInRow="PendingWithProceedCost" msprop:Generator_ColumnPropNameInTable="PendingWithProceedCostColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="PendingNoProceedHours" msprop:Generator_UserColumnName="PendingNoProceedHours" msprop:Generator_ColumnVarNameInTable="columnPendingNoProceedHours" msprop:Generator_ColumnPropNameInRow="PendingNoProceedHours" msprop:Generator_ColumnPropNameInTable="PendingNoProceedHoursColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PendingNoProceedQuantity" msprop:Generator_UserColumnName="PendingNoProceedQuantity" msprop:Generator_ColumnVarNameInTable="columnPendingNoProceedQuantity" msprop:Generator_ColumnPropNameInRow="PendingNoProceedQuantity" msprop:Generator_ColumnPropNameInTable="PendingNoProceedQuantityColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="PendingNoProceedCost" msprop:Generator_UserColumnName="PendingNoProceedCost" msprop:Generator_ColumnVarNameInTable="columnPendingNoProceedCost" msprop:Generator_ColumnPropNameInRow="PendingNoProceedCost" msprop:Generator_ColumnPropNameInTable="PendingNoProceedCostColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="QuantityAdjustment" msprop:Generator_UserColumnName="QuantityAdjustment" msprop:Generator_ColumnVarNameInTable="columnQuantityAdjustment" msprop:Generator_ColumnPropNameInRow="QuantityAdjustment" msprop:Generator_ColumnPropNameInTable="QuantityAdjustmentColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TotalBudgetHours" msprop:Generator_UserColumnName="TotalBudgetHours" msprop:Generator_ColumnVarNameInTable="columnTotalBudgetHours" msprop:Generator_ColumnPropNameInRow="TotalBudgetHours" msprop:Generator_ColumnPropNameInTable="TotalBudgetHoursColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TotalBudgetQuantity" msprop:Generator_UserColumnName="TotalBudgetQuantity" msprop:Generator_ColumnVarNameInTable="columnTotalBudgetQuantity" msprop:Generator_ColumnPropNameInRow="TotalBudgetQuantity" msprop:Generator_ColumnPropNameInTable="TotalBudgetQuantityColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="TotalBudgetCost" msprop:Generator_UserColumnName="TotalBudgetCost" msprop:Generator_ColumnVarNameInTable="columnTotalBudgetCost" msprop:Generator_ColumnPropNameInRow="TotalBudgetCost" msprop:Generator_ColumnPropNameInTable="TotalBudgetCostColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="CommittedHours" msprop:Generator_UserColumnName="CommittedHours" msprop:Generator_ColumnVarNameInTable="columnCommittedHours" msprop:Generator_ColumnPropNameInRow="CommittedHours" msprop:Generator_ColumnPropNameInTable="CommittedHoursColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CommittedQuantity" msprop:Generator_UserColumnName="CommittedQuantity" msprop:Generator_ColumnVarNameInTable="columnCommittedQuantity" msprop:Generator_ColumnPropNameInRow="CommittedQuantity" msprop:Generator_ColumnPropNameInTable="CommittedQuantityColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Cost" msprop:Generator_UserColumnName="Cost" msprop:Generator_ColumnVarNameInTable="columnCost" msprop:Generator_ColumnPropNameInRow="Cost" msprop:Generator_ColumnPropNameInTable="CostColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="OpenCommitment" msprop:Generator_UserColumnName="OpenCommitment" msprop:Generator_ColumnVarNameInTable="columnOpenCommitment" msprop:Generator_ColumnPropNameInRow="OpenCommitment" msprop:Generator_ColumnPropNameInTable="OpenCommitmentColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="UsedHoursPercentage" msprop:Generator_UserColumnName="UsedHoursPercentage" msprop:Generator_ColumnVarNameInTable="columnUsedHoursPercentage" msprop:Generator_ColumnPropNameInRow="UsedHoursPercentage" msprop:Generator_ColumnPropNameInTable="UsedHoursPercentageColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="UsedQuantityPercentage" msprop:Generator_UserColumnName="UsedQuantityPercentage" msprop:Generator_ColumnVarNameInTable="columnUsedQuantityPercentage" msprop:Generator_ColumnPropNameInRow="UsedQuantityPercentage" msprop:Generator_ColumnPropNameInTable="UsedQuantityPercentageColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="EstimatedPerformanceFactor" msprop:Generator_UserColumnName="EstimatedPerformanceFactor" msprop:Generator_ColumnVarNameInTable="columnEstimatedPerformanceFactor" msprop:Generator_ColumnPropNameInRow="EstimatedPerformanceFactor" msprop:Generator_ColumnPropNameInTable="EstimatedPerformanceFactorColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="DifferentialHours" msprop:Generator_UserColumnName="DifferentialHours" msprop:Generator_ColumnVarNameInTable="columnDifferentialHours" msprop:Generator_ColumnPropNameInRow="DifferentialHours" msprop:Generator_ColumnPropNameInTable="DifferentialHoursColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="CurrentPerformanceHours" msprop:Generator_UserColumnName="CurrentPerformanceHours" msprop:Generator_ColumnVarNameInTable="columnCurrentPerformanceHours" msprop:Generator_ColumnPropNameInRow="CurrentPerformanceHours" msprop:Generator_ColumnPropNameInTable="CurrentPerformanceHoursColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ProjectedTotalHours" msprop:Generator_UserColumnName="ProjectedTotalHours" msprop:Generator_ColumnVarNameInTable="columnProjectedTotalHours" msprop:Generator_ColumnPropNameInRow="ProjectedTotalHours" msprop:Generator_ColumnPropNameInTable="ProjectedTotalHoursColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ProjectedCAC" msprop:Generator_UserColumnName="ProjectedCAC" msprop:Generator_ColumnVarNameInTable="columnProjectedCAC" msprop:Generator_ColumnPropNameInRow="ProjectedCAC" msprop:Generator_ColumnPropNameInTable="ProjectedCACColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="RevisedCACMonthend" msprop:Generator_UserColumnName="RevisedCACMonthend" msprop:Generator_ColumnVarNameInTable="columnRevisedCACMonthend" msprop:Generator_ColumnPropNameInRow="RevisedCACMonthend" msprop:Generator_ColumnPropNameInTable="RevisedCACMonthendColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ProjectedOverUnder" msprop:Generator_UserColumnName="ProjectedOverUnder" msprop:Generator_ColumnVarNameInTable="columnProjectedOverUnder" msprop:Generator_ColumnPropNameInRow="ProjectedOverUnder" msprop:Generator_ColumnPropNameInTable="ProjectedOverUnderColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ValueAdjustment" msprop:Generator_UserColumnName="ValueAdjustment" msprop:Generator_ColumnVarNameInTable="columnValueAdjustment" msprop:Generator_ColumnPropNameInRow="ValueAdjustment" msprop:Generator_ColumnPropNameInTable="ValueAdjustmentColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ValueAdjustmentPercentage" msprop:Generator_UserColumnName="ValueAdjustmentPercentage" msprop:Generator_ColumnVarNameInTable="columnValueAdjustmentPercentage" msprop:Generator_ColumnPropNameInRow="ValueAdjustmentPercentage" msprop:Generator_ColumnPropNameInTable="ValueAdjustmentPercentageColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="RevisedCAC" msprop:Generator_UserColumnName="RevisedCAC" msprop:Generator_ColumnVarNameInTable="columnRevisedCAC" msprop:Generator_ColumnPropNameInRow="RevisedCAC" msprop:Generator_ColumnPropNameInTable="RevisedCACColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="RevisedOverUnder" msprop:Generator_UserColumnName="RevisedOverUnder" msprop:Generator_ColumnVarNameInTable="columnRevisedOverUnder" msprop:Generator_ColumnPropNameInRow="RevisedOverUnder" msprop:Generator_ColumnPropNameInTable="RevisedOverUnderColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="RevisedPerformanceFactor" msprop:Generator_UserColumnName="RevisedPerformanceFactor" msprop:Generator_ColumnVarNameInTable="columnRevisedPerformanceFactor" msprop:Generator_ColumnPropNameInRow="RevisedPerformanceFactor" msprop:Generator_ColumnPropNameInTable="RevisedPerformanceFactorColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Selected" msprop:Generator_UserColumnName="Selected" msprop:Generator_ColumnVarNameInTable="columnSelected" msprop:Generator_ColumnPropNameInRow="Selected" msprop:Generator_ColumnPropNameInTable="SelectedColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="MonthendCAC" msprop:Generator_UserColumnName="MonthendCAC" msprop:Generator_ColumnVarNameInTable="columnMonthendCAC" msprop:Generator_ColumnPropNameInRow="MonthendCAC" msprop:Generator_ColumnPropNameInTable="MonthendCACColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="MonthendValueAdjustment" msprop:Generator_UserColumnName="MonthendValueAdjustment" msprop:Generator_ColumnVarNameInTable="columnMonthendValueAdjustment" msprop:Generator_ColumnPropNameInRow="MonthendValueAdjustment" msprop:Generator_ColumnPropNameInTable="MonthendValueAdjustmentColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ActualCostPlusCommitment" msprop:Generator_UserColumnName="ActualCostPlusCommitment" msprop:Generator_ColumnVarNameInTable="columnActualCostPlusCommitment" msprop:Generator_ColumnPropNameInRow="ActualCostPlusCommitment" msprop:Generator_ColumnPropNameInTable="ActualCostPlusCommitmentColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="UpdateMonthendValueAdjustment" msprop:Generator_UserColumnName="UpdateMonthendValueAdjustment" msprop:Generator_ColumnVarNameInTable="columnUpdateMonthendValueAdjustment" msprop:Generator_ColumnPropNameInRow="UpdateMonthendValueAdjustment" msprop:Generator_ColumnPropNameInTable="UpdateMonthendValueAdjustmentColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="BudgetLaborUnit" msprop:Generator_UserColumnName="BudgetLaborUnit" msprop:Generator_ColumnVarNameInTable="columnBudgetLaborUnit" msprop:Generator_ColumnPropNameInRow="BudgetLaborUnit" msprop:Generator_ColumnPropNameInTable="BudgetLaborUnitColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="ActualLaborUnit" msprop:Generator_UserColumnName="ActualLaborUnit" msprop:Generator_ColumnVarNameInTable="columnActualLaborUnit" msprop:Generator_ColumnPropNameInRow="ActualLaborUnit" msprop:Generator_ColumnPropNameInTable="ActualLaborUnitColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="DataTable1" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_TablePropName="DataTable1" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="QuantityToDate" msprop:Generator_UserColumnName="QuantityToDate" msprop:Generator_ColumnPropNameInRow="QuantityToDate" msprop:Generator_ColumnVarNameInTable="columnQuantityToDate" msprop:Generator_ColumnPropNameInTable="QuantityToDateColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="HoursToDate" msprop:Generator_UserColumnName="HoursToDate" msprop:Generator_ColumnPropNameInRow="HoursToDate" msprop:Generator_ColumnVarNameInTable="columnHoursToDate" msprop:Generator_ColumnPropNameInTable="HoursToDateColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Earned" msprop:Generator_UserColumnName="Earned" msprop:Generator_ColumnPropNameInRow="Earned" msprop:Generator_ColumnVarNameInTable="columnEarned" msprop:Generator_ColumnPropNameInTable="EarnedColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="LaborPerformanceFactor" msprop:Generator_UserColumnName="LaborPerformanceFactor" msprop:Generator_ColumnPropNameInRow="LaborPerformanceFactor" msprop:Generator_ColumnVarNameInTable="columnLaborPerformanceFactor" msprop:Generator_ColumnPropNameInTable="LaborPerformanceFactorColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Quantity" msprop:Generator_UserColumnName="Quantity" msprop:Generator_ColumnPropNameInRow="Quantity" msprop:Generator_ColumnVarNameInTable="columnQuantity" msprop:Generator_ColumnPropNameInTable="QuantityColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Hours" msprop:Generator_UserColumnName="Hours" msprop:Generator_ColumnPropNameInRow="Hours" msprop:Generator_ColumnVarNameInTable="columnHours" msprop:Generator_ColumnPropNameInTable="HoursColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Weekend" msprop:Generator_UserColumnName="Weekend" msprop:Generator_ColumnPropNameInRow="Weekend" msprop:Generator_ColumnVarNameInTable="columnWeekend" msprop:Generator_ColumnPropNameInTable="WeekendColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="JobCostCodePhaseID" msprop:Generator_UserColumnName="JobCostCodePhaseID" msprop:Generator_ColumnPropNameInRow="JobCostCodePhaseID" msprop:Generator_ColumnVarNameInTable="columnJobCostCodePhaseID" msprop:Generator_ColumnPropNameInTable="JobCostCodePhaseIDColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:tblJobCostCodePhase" />
+      <xs:field xpath="mstns:JobCostCodePhaseID" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="Phase_x0020_Detail" msdata:parent="tblJobCostCodePhase" msdata:child="DataTable1" msdata:parentkey="JobCostCodePhaseID" msdata:childkey="JobCostCodePhaseID" msprop:Generator_UserRelationName="Phase Detail" msprop:Generator_RelationVarName="relationPhase_Detail" msprop:Generator_UserChildTable="DataTable1" msprop:Generator_UserParentTable="tblJobCostCodePhase" msprop:Generator_ParentPropName="tblJobCostCodePhaseRow" msprop:Generator_ChildPropName="GetDataTable1Rows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

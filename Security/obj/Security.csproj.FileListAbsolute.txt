@@ -1,0 +1,48 @@
+C:\CCEJobs\Security\bin\Debug\Security.dll
+C:\CCEJobs\Security\bin\Debug\Security.pdb
+C:\CCEJobs\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs\Security\obj\Debug\Security.frmSecurityMaintenance.resources
+C:\CCEJobs\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\CCEJobs\Security\obj\Debug\Security.dll.licenses
+C:\CCEJobs\Security\obj\Debug\Security.dll
+C:\CCEJobs\Security\obj\Debug\Security.pdb
+C:\CCEJobs\Security\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\Security\bin\Release\Security.dll
+C:\CCEJobs\Security\bin\Release\Security.pdb
+C:\CCEJobs\Security\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\Security\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs\Security\obj\Release\Security.frmSecurityMaintenance.resources
+C:\CCEJobs\Security\obj\Release\Security.csproj.GenerateResource.Cache
+C:\CCEJobs\Security\obj\Release\Security.dll.licenses
+C:\CCEJobs\Security\obj\Release\Security.dll
+C:\CCEJobs\Security\obj\Release\Security.pdb
+C:\CCEJobs\Security\obj\Debug\Security.Properties.Resources.resources
+C:\CCEJobs\Security\obj\Debug\Security.frmAbout.resources
+C:\CCEJobs\Security\obj\Release\Security.frmAbout.resources
+C:\CCEJobs\Security\obj\Release\Security.Properties.Resources.resources
+C:\CCEJobs\Security\obj\Debug\Security.rptJobInvoiceDetail.resources
+C:\CCEJobs\Security\obj\Release\Security.rptJobInvoiceDetail.resources
+C:\CCEJobs San Diego Production\CCEJobs\Security\bin\Debug\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\Security\bin\Debug\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\Security\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Debug\Security.frmAbout.resources
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Debug\Security.frmSecurityMaintenance.resources
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Debug\Security.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Debug\Security.rptJobInvoiceDetail.resources
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Debug\Security.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Debug\Security.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Debug\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Debug\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\Security\bin\Release\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\Security\bin\Release\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\Security\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Release\Security.frmAbout.resources
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Release\Security.frmSecurityMaintenance.resources
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Release\Security.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Release\Security.rptJobInvoiceDetail.resources
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Release\Security.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Release\Security.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Release\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\Security\obj\Release\Security.pdb

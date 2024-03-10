@@ -1,0 +1,1224 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C6258EFA-D4D2-4B44-A624-8B8690B0D6A1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CCEJobs</RootNamespace>
+    <AssemblyName>CCEJobs</AssemblyName>
+    <ApplicationIcon>Note.ico</ApplicationIcon>
+    <ManifestCertificateThumbprint>47C9AB10020290882B4835365923D2BABC0465D2</ManifestCertificateThumbprint>
+    <ManifestKeyFile>CCEJobs_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>false</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <TargetZone>LocalIntranet</TargetZone>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>http://770-janus:120/ccejobs/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://770-janus:120/cceJobs/</InstallUrl>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bakir&amp;Associates.ControlsLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ControlsLibrary\bin\Debug\Bakir&amp;Associates.ControlsLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="BakirAndAssociates.DatabaseUtil">
+      <HintPath>..\JCCBusinessLayer\bin\Debug\BakirAndAssociates.DatabaseUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="ContraCostaElectric.DatabaseUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ContraCostaElectric.DatabaseUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1.Wizard, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1.UI, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1.UI, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1.Extensions, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpellChecker.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.SpellChecker.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="EnvDTE, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="EnvDTE80, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Extensibility, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="JCCEquipmentRental, Version=1.0.8367.37717, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\JCCEquipmentRental\bin\Debug\JCCEquipmentRental.dll</HintPath>
+    </Reference>
+    <Reference Include="JCCMaterialOrder, Version=1.0.8367.38057, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\JCCMaterialOrder\bin\Debug\JCCMaterialOrder.dll</HintPath>
+    </Reference>
+    <Reference Include="JCCPurchasing, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\JCCPurchasing\bin\Debug\JCCPurchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="JCCSubcontractDocument, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\JCCSubcontractDocument\bin\Debug\JCCSubcontractDocument.dll</HintPath>
+    </Reference>
+    <Reference Include="JCCSwitchgear, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\JCCSwitchgeer\bin\Debug\JCCSwitchgear.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <HintPath>..\..\..\..\..\Dll's required\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="VSLangProj, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CCEApplication.cs" />
+    <Compile Include="Controls\ctlAssignJobs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlAssignJobs.Designer.cs">
+      <DependentUpon>ctlAssignJobs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlFieldOperationList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlFieldOperationList.Designer.cs">
+      <DependentUpon>ctlFieldOperationList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlGlobalContacts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlGlobalContacts.Designer.cs">
+      <DependentUpon>ctlGlobalContacts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobDocumentsExplorer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobDocumentsExplorer.Designer.cs">
+      <DependentUpon>ctlJobDocumentsExplorer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgress.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgress.Designer.cs">
+      <DependentUpon>ctlJobProgress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobCorrespondenceLetter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobCorrespondenceLetter.Designer.cs">
+      <DependentUpon>ctlJobCorrespondenceLetter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlMeetingMinutesSchedule.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlMeetingMinutesSchedule.Designer.cs">
+      <DependentUpon>ctlMeetingMinutesSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobSubmittal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobSubmittal.Designer.cs">
+      <DependentUpon>ctlJobSubmittal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobTransmittal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobTransmittal.Designer.cs">
+      <DependentUpon>ctlJobTransmittal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobMaterialMajorPO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobMaterialMajorPO.Designer.cs">
+      <DependentUpon>ctlJobMaterialMajorPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobDefaultValues.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobDefaultValues.Designer.cs">
+      <DependentUpon>ctlJobDefaultValues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobContractRFI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobContractRFI.Designer.cs">
+      <DependentUpon>ctlJobContractRFI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobContact.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobContact.Designer.cs">
+      <DependentUpon>ctlJobContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobCostCodes.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobCostCodes.Designer.cs">
+      <DependentUpon>ctlJobCostCodes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobsWithLaborActivityByWeekReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobsWithLaborActivityByWeekReport.Designer.cs">
+      <DependentUpon>ctlJobsWithLaborActivityByWeekReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobPrequalReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobPrequalReport.Designer.cs">
+      <DependentUpon>ctlJobPrequalReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobCostAnalysisDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobCostAnalysisDashboard.Designer.cs">
+      <DependentUpon>ctlJobCostAnalysisDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobSummaryDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobSummaryDashboard.Designer.cs">
+      <DependentUpon>ctlJobSummaryDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobByCostCodesReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobByCostCodesReport.Designer.cs">
+      <DependentUpon>ctlJobByCostCodesReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobSubcontractsInvoices.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobSubcontractsInvoices.Designer.cs">
+      <DependentUpon>ctlJobSubcontractsInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlCustomerInovicesAgingReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlCustomerInovicesAgingReport.Designer.cs">
+      <DependentUpon>ctlCustomerInovicesAgingReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlAllInsuranceRequirementsReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlAllInsuranceRequirementsReport.Designer.cs">
+      <DependentUpon>ctlAllInsuranceRequirementsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlPreBidRFI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlPreBidRFI.designer.cs">
+      <DependentUpon>ctlPreBidRFI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlPOsWithNoMatchInoviceReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlPOsWithNoMatchInoviceReport.Designer.cs">
+      <DependentUpon>ctlPOsWithNoMatchInoviceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobInvoicesNoPO.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobInvoicesNoPO.Designer.cs">
+      <DependentUpon>ctlJobInvoicesNoPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobLogReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobLogReport.Designer.cs">
+      <DependentUpon>ctlJobLogReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobLog.Designer.cs">
+      <DependentUpon>ctlJobLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobDocuments.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobDocuments.Designer.cs">
+      <DependentUpon>ctlJobDocuments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobCostAnalysis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobCostAnalysis.Designer.cs">
+      <DependentUpon>ctlJobCostAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobLaborAnalysisReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobLaborAnalysisReport.Designer.cs">
+      <DependentUpon>ctlJobLaborAnalysisReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlPOsWithNoInoviceReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlPOsWithNoInoviceReport.Designer.cs">
+      <DependentUpon>ctlPOsWithNoInoviceReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobPurchaseDetail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobPurchaseDetail.Designer.cs">
+      <DependentUpon>ctlJobPurchaseDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlAdHocReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlAdHocReport.Designer.cs">
+      <DependentUpon>ctlAdHocReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlOCIPClassifiedProjectsReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlOCIPClassifiedProjectsReport.Designer.cs">
+      <DependentUpon>ctlOCIPClassifiedProjectsReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressComment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressComment.Designer.cs">
+      <DependentUpon>ctlJobProgressComment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobBiddingContractor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobBiddingContractor.Designer.cs">
+      <DependentUpon>ctlJobBiddingContractor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlProjectProposal.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlProjectProposal.Designer.cs">
+      <DependentUpon>ctlProjectProposal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyNewJobReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyNewJobReport.Designer.cs">
+      <DependentUpon>ctlWeeklyNewJobReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyBudgetReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyBudgetReport.Designer.cs">
+      <DependentUpon>ctlWeeklyBudgetReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressSummaryWIP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressSummaryWIP.Designer.cs">
+      <DependentUpon>ctlJobProgressSummaryWIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressWIP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressWIP.Designer.cs">
+      <DependentUpon>ctlJobProgressWIP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobInvoiceDetail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobInvoiceDetail.Designer.cs">
+      <DependentUpon>ctlJobInvoiceDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlLaborAnalysis.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlLaborAnalysis.Designer.cs">
+      <DependentUpon>ctlLaborAnalysis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressSummaryReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressSummaryReport.Designer.cs">
+      <DependentUpon>ctlJobProgressSummaryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlCompanyEstimateHistoryReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlCompanyEstimateHistoryReport.Designer.cs">
+      <DependentUpon>ctlCompanyEstimateHistoryReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlCompanyEstimateReviewReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlCompanyEstimateReviewReport.Designer.cs">
+      <DependentUpon>ctlCompanyEstimateReviewReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobList.Designer.cs">
+      <DependentUpon>ctlJobList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressSummary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobProgressSummary.Designer.cs">
+      <DependentUpon>ctlJobProgressSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlJobDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlJobDashboard.Designer.cs">
+      <DependentUpon>ctlJobDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlLaborPerformanceFactor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlLaborPerformanceFactor.Designer.cs">
+      <DependentUpon>ctlLaborPerformanceFactor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlPreJobPlanningReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlPreJobPlanningReport.Designer.cs">
+      <DependentUpon>ctlPreJobPlanningReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlCostCodeTimeCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlCostCodeTimeCard.Designer.cs">
+      <DependentUpon>ctlCostCodeTimeCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlCostCodeWeekly.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlCostCodeWeekly.Designer.cs">
+      <DependentUpon>ctlCostCodeWeekly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlLaborFeedBack.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlLaborFeedBack.Designer.cs">
+      <DependentUpon>ctlLaborFeedBack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlPurchasing.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlPurchasing.Designer.cs">
+      <DependentUpon>ctlPurchasing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyEstimateOpenPendingReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyEstimateOpenPendingReport.Designer.cs">
+      <DependentUpon>ctlWeeklyEstimateOpenPendingReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyEstimateNoNoBidReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyEstimateNoNoBidReport.Designer.cs">
+      <DependentUpon>ctlWeeklyEstimateNoNoBidReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyMillionDollarReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklyMillionDollarReport.Designer.cs">
+      <DependentUpon>ctlWeeklyMillionDollarReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklySuccessfulReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlWeeklySuccessfulReport.Designer.cs">
+      <DependentUpon>ctlWeeklySuccessfulReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\ctlBidScheduleReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\ctlBidScheduleReport.Designer.cs">
+      <DependentUpon>ctlBidScheduleReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\frmPOInvoiceSummary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\frmPOInvoiceSummary.Designer.cs">
+      <DependentUpon>frmPOInvoiceSummary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\jobResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>jobResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmCorrespondenceLetter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmCorrespondenceLetter.Designer.cs">
+      <DependentUpon>frmCorrespondenceLetter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmEmployee.Designer.cs">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmGlobalContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmGlobalContact.Designer.cs">
+      <DependentUpon>frmGlobalContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmImportContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmImportContact.Designer.cs">
+      <DependentUpon>frmImportContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmJob.designer.cs">
+      <DependentUpon>frmJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMeetingMinutesSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMeetingMinutesSubject.Designer.cs">
+      <DependentUpon>frmMeetingMinutesSubject.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMeetingMinutesSchedule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMeetingMinutesSchedule.Designer.cs">
+      <DependentUpon>frmMeetingMinutesSchedule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmPreBidRFI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmPreBidRFI.Designer.cs">
+      <DependentUpon>frmPreBidRFI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmProjectProposal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmProjectProposal.Designer.cs">
+      <DependentUpon>frmProjectProposal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSubmittal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSubmittal.Designer.cs">
+      <DependentUpon>frmSubmittal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmTaxRate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmTaxRate.Designer.cs">
+      <DependentUpon>frmTaxRate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmTransmittal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmTransmittal.Designer.cs">
+      <DependentUpon>frmTransmittal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMajorPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMajorPO.Designer.cs">
+      <DependentUpon>frmMajorPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmChangeOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmChangeOrder.Designer.cs">
+      <DependentUpon>frmChangeOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmAbout.designer.cs">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmContact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmContact.Designer.cs">
+      <DependentUpon>frmContact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmPhase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmPhase.Designer.cs">
+      <DependentUpon>frmPhase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSelect.Designer.cs">
+      <DependentUpon>frmSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmJobSystemDefaultValues.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmJobSystemDefaultValues.Designer.cs">
+      <DependentUpon>frmJobSystemDefaultValues.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmJobRFI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmJobRFI.Designer.cs">
+      <DependentUpon>frmJobRFI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\frmSplash.designer.cs">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\SystemSplashScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilities\SystemSplashScreen.Designer.cs">
+      <DependentUpon>SystemSplashScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\WaitProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilities\WaitProgress.Designer.cs">
+      <DependentUpon>WaitProgress.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Controls\ctlAssignJobs.resx">
+      <DependentUpon>ctlAssignJobs.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlFieldOperationList.resx">
+      <DependentUpon>ctlFieldOperationList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlGlobalContacts.resx">
+      <DependentUpon>ctlGlobalContacts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobDocumentsExplorer.resx">
+      <DependentUpon>ctlJobDocumentsExplorer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobProgress.resx">
+      <DependentUpon>ctlJobProgress.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobCorrespondenceLetter.resx">
+      <DependentUpon>ctlJobCorrespondenceLetter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlMeetingMinutesSchedule.resx">
+      <DependentUpon>ctlMeetingMinutesSchedule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobSubmittal.resx">
+      <DependentUpon>ctlJobSubmittal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobTransmittal.resx">
+      <DependentUpon>ctlJobTransmittal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobMaterialMajorPO.resx">
+      <DependentUpon>ctlJobMaterialMajorPO.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobDefaultValues.resx">
+      <DependentUpon>ctlJobDefaultValues.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobContractRFI.resx">
+      <DependentUpon>ctlJobContractRFI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobContact.resx">
+      <DependentUpon>ctlJobContact.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobCostCodes.resx">
+      <DependentUpon>ctlJobCostCodes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobsWithLaborActivityByWeekReport.resx">
+      <DependentUpon>ctlJobsWithLaborActivityByWeekReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobPrequalReport.resx">
+      <DependentUpon>ctlJobPrequalReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobCostAnalysisDashboard.resx">
+      <DependentUpon>ctlJobCostAnalysisDashboard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobSummaryDashboard.resx">
+      <DependentUpon>ctlJobSummaryDashboard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobByCostCodesReport.resx">
+      <DependentUpon>ctlJobByCostCodesReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobSubcontractsInvoices.resx">
+      <DependentUpon>ctlJobSubcontractsInvoices.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlCustomerInovicesAgingReport.resx">
+      <DependentUpon>ctlCustomerInovicesAgingReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlAllInsuranceRequirementsReport.resx">
+      <DependentUpon>ctlAllInsuranceRequirementsReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlPreBidRFI.resx">
+      <DependentUpon>ctlPreBidRFI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlPOsWithNoMatchInoviceReport.resx">
+      <DependentUpon>ctlPOsWithNoMatchInoviceReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobInvoicesNoPO.resx">
+      <DependentUpon>ctlJobInvoicesNoPO.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobLogReport.resx">
+      <DependentUpon>ctlJobLogReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobLog.resx">
+      <DependentUpon>ctlJobLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobDocuments.resx">
+      <DependentUpon>ctlJobDocuments.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobCostAnalysis.resx">
+      <DependentUpon>ctlJobCostAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobLaborAnalysisReport.resx">
+      <DependentUpon>ctlJobLaborAnalysisReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlPOsWithNoInoviceReport.resx">
+      <DependentUpon>ctlPOsWithNoInoviceReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobPurchaseDetail.resx">
+      <DependentUpon>ctlJobPurchaseDetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlAdHocReport.resx">
+      <DependentUpon>ctlAdHocReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlOCIPClassifiedProjectsReport.resx">
+      <DependentUpon>ctlOCIPClassifiedProjectsReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobProgressComment.resx">
+      <DependentUpon>ctlJobProgressComment.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobBiddingContractor.resx">
+      <DependentUpon>ctlJobBiddingContractor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlWeeklyNewJobReport.resx">
+      <DependentUpon>ctlWeeklyNewJobReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlWeeklyBudgetReport.resx">
+      <DependentUpon>ctlWeeklyBudgetReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobProgressSummaryWIP.resx">
+      <DependentUpon>ctlJobProgressSummaryWIP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobProgressWIP.resx">
+      <DependentUpon>ctlJobProgressWIP.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobInvoiceDetail.resx">
+      <DependentUpon>ctlJobInvoiceDetail.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlLaborAnalysis.resx">
+      <DependentUpon>ctlLaborAnalysis.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobProgressSummaryReport.resx">
+      <DependentUpon>ctlJobProgressSummaryReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlCompanyEstimateHistoryReport.resx">
+      <DependentUpon>ctlCompanyEstimateHistoryReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlCompanyEstimateReviewReport.resx">
+      <DependentUpon>ctlCompanyEstimateReviewReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobList.resx">
+      <DependentUpon>ctlJobList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobProgressSummary.resx">
+      <DependentUpon>ctlJobProgressSummary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlJobDashboard.resx">
+      <DependentUpon>ctlJobDashboard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlLaborPerformanceFactor.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctlLaborPerformanceFactor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlPreJobPlanningReport.resx">
+      <DependentUpon>ctlPreJobPlanningReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlCostCodeTimeCard.resx">
+      <DependentUpon>ctlCostCodeTimeCard.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlCostCodeWeekly.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctlCostCodeWeekly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlLaborFeedBack.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctlLaborFeedBack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlPurchasing.resx">
+      <DependentUpon>ctlPurchasing.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlWeeklyEstimateOpenPendingReport.resx">
+      <DependentUpon>ctlWeeklyEstimateOpenPendingReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlWeeklyEstimateNoNoBidReport.resx">
+      <DependentUpon>ctlWeeklyEstimateNoNoBidReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlWeeklyMillionDollarReport.resx">
+      <DependentUpon>ctlWeeklyMillionDollarReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlWeeklySuccessfulReport.resx">
+      <DependentUpon>ctlWeeklySuccessfulReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\ctlBidScheduleReport.resx">
+      <DependentUpon>ctlBidScheduleReport.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\frmPOInvoiceSummary.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPOInvoiceSummary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\jobResources.resx">
+      <SubType>Designer</SubType>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>jobResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmCorrespondenceLetter.resx">
+      <DependentUpon>frmCorrespondenceLetter.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmEmployee.resx">
+      <DependentUpon>frmEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmGlobalContact.resx">
+      <DependentUpon>frmGlobalContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmImportContact.resx">
+      <DependentUpon>frmImportContact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmJob.resx">
+      <DependentUpon>frmJob.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmMeetingMinutesSubject.resx">
+      <DependentUpon>frmMeetingMinutesSubject.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmMeetingMinutesSchedule.resx">
+      <DependentUpon>frmMeetingMinutesSchedule.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmPreBidRFI.resx">
+      <DependentUpon>frmPreBidRFI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmProjectProposal.resx">
+      <DependentUpon>frmProjectProposal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmSubmittal.resx">
+      <DependentUpon>frmSubmittal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmTaxRate.resx">
+      <DependentUpon>frmTaxRate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmTransmittal.resx">
+      <DependentUpon>frmTransmittal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmMajorPO.resx">
+      <DependentUpon>frmMajorPO.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmChangeOrder.resx">
+      <DependentUpon>frmChangeOrder.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmAbout.resx">
+      <DependentUpon>frmAbout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmContact.resx">
+      <DependentUpon>frmContact.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmPhase.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPhase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmSelect.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmJobSystemDefaultValues.resx">
+      <DependentUpon>frmJobSystemDefaultValues.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmJobRFI.resx">
+      <DependentUpon>frmJobRFI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\frmSplash.resx">
+      <DependentUpon>frmSplash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subcontracts\ctlSubcontract.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctlSubcontract.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subcontracts\ctlSubcontractBudget.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ctlSubcontractBudget.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subcontracts\Reports\rptSubcontractContractLog.resx">
+      <DependentUpon>rptSubcontractContractLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subcontracts\Reports\rptSubcontractChangeOrderList.resx">
+      <DependentUpon>rptSubcontractChangeOrderList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subcontracts\Reports\rptSubcontractBreakdownSheet.resx">
+      <DependentUpon>rptSubcontractBreakdownSheet.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Subcontracts\Reports\rptSubcontract.resx">
+      <DependentUpon>rptSubcontract.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilities\frmImportJob.resx">
+      <DependentUpon>frmImportJob.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilities\frmJobProgressHistory.resx">
+      <DependentUpon>frmJobProgressHistory.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Utilities\SystemSplashScreen.resx">
+      <DependentUpon>SystemSplashScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utilities\WaitProgress.resx">
+      <DependentUpon>WaitProgress.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Subcontracts\ctlSubcontract.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Subcontracts\ctlSubcontract.Designer.cs">
+      <DependentUpon>ctlSubcontract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subcontracts\ctlSubcontractBudget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Subcontracts\ctlSubcontractBudget.Designer.cs">
+      <DependentUpon>ctlSubcontractBudget.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subcontracts\Reports\Reports.cs" />
+    <Compile Include="Subcontracts\Reports\rptSubcontractContractLog.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Subcontracts\Reports\rptSubcontractContractLog.Designer.cs">
+      <DependentUpon>rptSubcontractContractLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subcontracts\Reports\rptSubcontractChangeOrderList.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Subcontracts\Reports\rptSubcontractChangeOrderList.Designer.cs">
+      <DependentUpon>rptSubcontractChangeOrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subcontracts\Reports\rptSubcontractBreakdownSheet.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Subcontracts\Reports\rptSubcontractBreakdownSheet.Designer.cs">
+      <DependentUpon>rptSubcontractBreakdownSheet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subcontracts\Reports\rptSubcontract.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Subcontracts\Reports\rptSubcontract.Designer.cs">
+      <DependentUpon>rptSubcontract.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Subcontracts\Subcontract.cs" />
+    <Compile Include="Subcontracts\SubcontractChangeOrder.cs" />
+    <Compile Include="Subcontracts\SubcontractCost.cs" />
+    <Compile Include="Utilities\frmImportJob.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilities\frmImportJob.Designer.cs">
+      <DependentUpon>frmImportJob.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utilities\frmJobProgressHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utilities\frmJobProgressHistory.Designer.cs">
+      <DependentUpon>frmJobProgressHistory.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CCEJobs_TemporaryKey.pfx" />
+    <BaseApplicationManifest Include="Properties\app.manifest">
+      <SubType>Designer</SubType>
+    </BaseApplicationManifest>
+    <None Include="Resources\jobListIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User.bmp" />
+    <None Include="Resources\userLarge.bmp" />
+    <None Include="Resources\transit_16x16.png" />
+    <None Include="Resources\transit_32x32.png" />
+    <None Include="images\up.bmp" />
+    <Content Include="Note.ico" />
+    <None Include="Resources\EQ.ICO" />
+    <None Include="Resources\EQ.bmp" />
+    <None Include="Resources\1_MaterialPO.png" />
+    <None Include="Resources\MaterialPO16.png" />
+    <None Include="Resources\MaterialPO24.png" />
+    <None Include="Resources\DefaultProfilePic.jpg" />
+    <None Include="Resources\Key_New.png" />
+    <Content Include="Resources\PrintHS.png" />
+    <Content Include="Resources\TaskHS.png" />
+    <None Include="Resources\textdoc.ico" />
+    <None Include="Resources\Tools2.ico" />
+    <None Include="Resources\Tools1.ico" />
+    <None Include="Resources\Tools.ico" />
+    <None Include="Resources\printer.ico" />
+    <None Include="Resources\eventlog.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="BusinessObjects.CrystalReports.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>Crystal Reports for .NET Framework 2.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CCEOTProjects\CCEOTProjects.csproj">
+      <Project>{3b70c6c7-b0da-49f9-ba89-3a592617f900}</Project>
+      <Name>CCEOTProjects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ControlsLibrary\ControlsLibrary.csproj">
+      <Project>{9f5d0828-14ae-4734-a96a-c6d56609536c}</Project>
+      <Name>ControlsLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JCCBusinessLayer\JCCBusinessLayer.csproj">
+      <Project>{fc476da2-bf3d-4f80-b371-465c2923c9bf}</Project>
+      <Name>JCCBusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JCCDailyLog\JCCDailyLog.csproj">
+      <Project>{e9e11313-e876-44a4-a3b5-7d68ca6c790e}</Project>
+      <Name>JCCDailyLog</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JCCLightFixture\JCCLightFixture.csproj">
+      <Project>{e59363b9-8f6f-4c37-b6b9-a746c4037da0}</Project>
+      <Name>JCCLightFixture</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JCCReports\JCCReports.csproj">
+      <Project>{33b578ef-a0af-4b1e-a6fe-c115dc7ef8be}</Project>
+      <Name>JCCReports</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JCCSmallPO\JCCSmallPO.csproj">
+      <Project>{e90bea3e-9113-4050-a75e-b380fc8c15f0}</Project>
+      <Name>JCCSmallPO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\JCCTimeMaterial\JCCTimeMaterial.csproj">
+      <Project>{be43aef3-9af2-42e1-964c-93f17cdd9691}</Project>
+      <Name>JCCTimeMaterial</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Security\Security.csproj">
+      <Project>{96f1812f-275f-4b17-9aec-24c2fd2206ee}</Project>
+      <Name>Security</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

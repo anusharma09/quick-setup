@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FC476DA2-BF3D-4F80-B371-465C2923C9BF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JCCBusinessLayer</RootNamespace>
+    <AssemblyName>JCCBusinessLayer</AssemblyName>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BakirAndAssociates.DatabaseUtil">
+      <HintPath>E:\Bakir &amp; Associates\Library\DatabaseUtil\bin\Release\BakirAndAssociates.DatabaseUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="ContraCostaElectric.DatabaseUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ContraCostaElectric.DatabaseUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Word.15.0.4797.1004\lib\net20\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Security, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Security.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CCEApplication.cs" />
+    <Compile Include="Classification.cs" />
+    <Compile Include="Contact.cs" />
+    <Compile Include="ContractComment.cs" />
+    <Compile Include="CostCode.cs" />
+    <Compile Include="CurrencyToWord.cs" />
+    <Compile Include="Customer.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="EmployeeBadging.cs" />
+    <Compile Include="EmployeeClassification.cs" />
+    <Compile Include="EmployeeEvaluation.cs" />
+    <Compile Include="EmployeeSafetyNotes.cs" />
+    <Compile Include="EmployeeTraining.cs" />
+    <Compile Include="Encryption.cs" />
+    <Compile Include="ErrorLogger.cs" />
+    <Compile Include="ExcelReport.cs" />
+    <Compile Include="FieldOperation.cs" />
+    <Compile Include="GlobalContacts.cs" />
+    <Compile Include="ImportSubmittal.cs" />
+    <Compile Include="InvoiceComment.cs" />
+    <Compile Include="Job.cs" />
+    <Compile Include="JobBiddingContactor.cs" />
+    <Compile Include="JobChangeOrder.cs" />
+    <Compile Include="JobChangeOrderContract.cs" />
+    <Compile Include="JobCorrespondenceLetter.cs" />
+    <Compile Include="JobCost.cs" />
+    <Compile Include="JobCostTimeSheet.cs" />
+    <Compile Include="JobDefaultValue.cs" />
+    <Compile Include="JobPrequal.cs" />
+    <Compile Include="JobRFI.cs" />
+    <Compile Include="JobRFIDocument.cs" />
+    <Compile Include="JobSubmittal.cs" />
+    <Compile Include="JobSubmittalDetail.cs" />
+    <Compile Include="JobSubmittalSpec.cs" />
+    <Compile Include="JobSubmittalStatus.cs" />
+    <Compile Include="JobSubmittalSystemSpec.cs" />
+    <Compile Include="JobSystemDefaultValues.cs" />
+    <Compile Include="JobTransmittal.cs" />
+    <Compile Include="JobTransmittalDetail.cs" />
+    <Compile Include="MajorPO.cs" />
+    <Compile Include="MajorPODetail.cs" />
+    <Compile Include="MeetingMinutesAttendee.cs" />
+    <Compile Include="MeetingMinutesItem.cs" />
+    <Compile Include="MeetingMinutesSchedule.cs" />
+    <Compile Include="MeetingMinutesSubject.cs" />
+    <Compile Include="MeetingMinutesTopic.cs" />
+    <Compile Include="MeetingMinutesTopicDefault.cs" />
+    <Compile Include="PreBidRFI.cs" />
+    <Compile Include="PreBidRFIDocument.cs" />
+    <Compile Include="PhaseComment.cs" />
+    <Compile Include="ProjectProposal.cs" />
+    <Compile Include="ProjectProposalAlternatePricing.cs" />
+    <Compile Include="ProjectProposalPricing.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RepositoryItems.cs" />
+    <Compile Include="SafetyNoteAttachment.cs" />
+    <Compile Include="Settings.Designer.cs">
+      <DependentUpon>Settings.settings</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="StarbuilderSynching.cs" />
+    <Compile Include="StaticTables.cs" />
+    <Compile Include="TaxRate.cs" />
+    <Compile Include="Termination.cs" />
+    <Compile Include="Utilities.cs" />
+    <Compile Include="WordDocuments.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

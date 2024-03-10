@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AtefDataSet7" targetNamespace="http://tempuri.org/AtefDataSet7.xsd" xmlns:mstns="http://tempuri.org/AtefDataSet7.xsd" xmlns="http://tempuri.org/AtefDataSet7.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="AtefConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="AtefConnectionString1 (Settings)" PropertyReference="ApplicationSettings.JCCReports.Properties.Settings.GlobalReference.Default.AtefConnectionString1" Provider="System.Data.Odbc">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="AAAATableAdapter" GeneratorDataComponentClassName="AAAATableAdapter" Name="AAAA" UserDataComponentName="AAAATableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="AtefConnectionString1 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText>SELECT 
+'' AS Company, 
+'' AS CompanyTo, 
+RFISubject,
+JobRFINumber,
+RFIDate,
+JobNumber,
+JobName,
+'' AS CompanyFrom,
+RFIText,
+DesignDetailRequired,
+DelayJob,
+DiscussedOnPhoneWith,
+PhoneDiscussionDate,
+AnsweredNeededBy,
+RFIResponse
+
+FROM tblJobRFI r
+LEFT Join tblJob j ON r.JobID = j.JobID
+LEFT JOIN tblJobContact c ON r.RFIToContactID = c.ContactID
+LEFT JOIN tblCompanyContact cc ON c.CompanyContactID = cc.CompanyContactID 
+LEFT JOIN tblJobContactDetail dd ON c.CompanyContactID = dd.JobContactDetailID 
+LEFT JOIN tblJobContact l ON r.RFIFromID = l.ContactID
+LEFT JOIN tblCompanyContact mm ON l.CompanyContactID = mm.CompanyContactID 
+LEFT JOIN tblJobContactDetail nn ON l.CompanyContactID = nn.JobContactDetailID 
+WHERE r.JobRFIID = 1
+
+</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Company" DataSetColumn="Company" />
+              <Mapping SourceColumn="CompanyTo" DataSetColumn="CompanyTo" />
+              <Mapping SourceColumn="RFISubject" DataSetColumn="RFISubject" />
+              <Mapping SourceColumn="JobRFINumber" DataSetColumn="JobRFINumber" />
+              <Mapping SourceColumn="RFIDate" DataSetColumn="RFIDate" />
+              <Mapping SourceColumn="JobNumber" DataSetColumn="JobNumber" />
+              <Mapping SourceColumn="JobName" DataSetColumn="JobName" />
+              <Mapping SourceColumn="CompanyFrom" DataSetColumn="CompanyFrom" />
+              <Mapping SourceColumn="RFIText" DataSetColumn="RFIText" />
+              <Mapping SourceColumn="DesignDetailRequired" DataSetColumn="DesignDetailRequired" />
+              <Mapping SourceColumn="DelayJob" DataSetColumn="DelayJob" />
+              <Mapping SourceColumn="DiscussedOnPhoneWith" DataSetColumn="DiscussedOnPhoneWith" />
+              <Mapping SourceColumn="PhoneDiscussionDate" DataSetColumn="PhoneDiscussionDate" />
+              <Mapping SourceColumn="AnsweredNeededBy" DataSetColumn="AnsweredNeededBy" />
+              <Mapping SourceColumn="RFIResponse" DataSetColumn="RFIResponse" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AtefDataSet7" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="AtefDataSet7" msprop:Generator_DataSetName="AtefDataSet7">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="AAAA" msprop:Generator_UserTableName="AAAA" msprop:Generator_RowDeletedName="AAAARowDeleted" msprop:Generator_RowChangedName="AAAARowChanged" msprop:Generator_RowClassName="AAAARow" msprop:Generator_RowChangingName="AAAARowChanging" msprop:Generator_RowEvArgName="AAAARowChangeEvent" msprop:Generator_RowEvHandlerName="AAAARowChangeEventHandler" msprop:Generator_TableClassName="AAAADataTable" msprop:Generator_TableVarName="tableAAAA" msprop:Generator_RowDeletingName="AAAARowDeleting" msprop:Generator_TablePropName="AAAA">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Company" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Company" msprop:Generator_ColumnPropNameInRow="Company" msprop:Generator_ColumnVarNameInTable="columnCompany" msprop:Generator_ColumnPropNameInTable="CompanyColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CompanyTo" msdata:ReadOnly="true" msprop:Generator_UserColumnName="CompanyTo" msprop:Generator_ColumnPropNameInRow="CompanyTo" msprop:Generator_ColumnVarNameInTable="columnCompanyTo" msprop:Generator_ColumnPropNameInTable="CompanyToColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RFISubject" msprop:Generator_UserColumnName="RFISubject" msprop:Generator_ColumnPropNameInRow="RFISubject" msprop:Generator_ColumnVarNameInTable="columnRFISubject" msprop:Generator_ColumnPropNameInTable="RFISubjectColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="JobRFINumber" msprop:Generator_UserColumnName="JobRFINumber" msprop:Generator_ColumnPropNameInRow="JobRFINumber" msprop:Generator_ColumnVarNameInTable="columnJobRFINumber" msprop:Generator_ColumnPropNameInTable="JobRFINumberColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RFIDate" msprop:Generator_UserColumnName="RFIDate" msprop:Generator_ColumnPropNameInRow="RFIDate" msprop:Generator_ColumnVarNameInTable="columnRFIDate" msprop:Generator_ColumnPropNameInTable="RFIDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="JobNumber" msprop:Generator_UserColumnName="JobNumber" msprop:Generator_ColumnPropNameInRow="JobNumber" msprop:Generator_ColumnVarNameInTable="columnJobNumber" msprop:Generator_ColumnPropNameInTable="JobNumberColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="JobName" msprop:Generator_UserColumnName="JobName" msprop:Generator_ColumnPropNameInRow="JobName" msprop:Generator_ColumnVarNameInTable="columnJobName" msprop:Generator_ColumnPropNameInTable="JobNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CompanyFrom" msdata:ReadOnly="true" msprop:Generator_UserColumnName="CompanyFrom" msprop:Generator_ColumnPropNameInRow="CompanyFrom" msprop:Generator_ColumnVarNameInTable="columnCompanyFrom" msprop:Generator_ColumnPropNameInTable="CompanyFromColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="RFIText" msprop:Generator_UserColumnName="RFIText" msprop:Generator_ColumnPropNameInRow="RFIText" msprop:Generator_ColumnVarNameInTable="columnRFIText" msprop:Generator_ColumnPropNameInTable="RFITextColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4000" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DesignDetailRequired" msprop:Generator_UserColumnName="DesignDetailRequired" msprop:Generator_ColumnPropNameInRow="DesignDetailRequired" msprop:Generator_ColumnVarNameInTable="columnDesignDetailRequired" msprop:Generator_ColumnPropNameInTable="DesignDetailRequiredColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="DelayJob" msprop:Generator_UserColumnName="DelayJob" msprop:Generator_ColumnPropNameInRow="DelayJob" msprop:Generator_ColumnVarNameInTable="columnDelayJob" msprop:Generator_ColumnPropNameInTable="DelayJobColumn" type="xs:boolean" minOccurs="0" />
+              <xs:element name="DiscussedOnPhoneWith" msprop:Generator_UserColumnName="DiscussedOnPhoneWith" msprop:Generator_ColumnPropNameInRow="DiscussedOnPhoneWith" msprop:Generator_ColumnVarNameInTable="columnDiscussedOnPhoneWith" msprop:Generator_ColumnPropNameInTable="DiscussedOnPhoneWithColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PhoneDiscussionDate" msprop:Generator_UserColumnName="PhoneDiscussionDate" msprop:Generator_ColumnPropNameInRow="PhoneDiscussionDate" msprop:Generator_ColumnVarNameInTable="columnPhoneDiscussionDate" msprop:Generator_ColumnPropNameInTable="PhoneDiscussionDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="AnsweredNeededBy" msprop:Generator_UserColumnName="AnsweredNeededBy" msprop:Generator_ColumnPropNameInRow="AnsweredNeededBy" msprop:Generator_ColumnVarNameInTable="columnAnsweredNeededBy" msprop:Generator_ColumnPropNameInTable="AnsweredNeededByColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="RFIResponse" msprop:Generator_UserColumnName="RFIResponse" msprop:Generator_ColumnPropNameInRow="RFIResponse" msprop:Generator_ColumnVarNameInTable="columnRFIResponse" msprop:Generator_ColumnPropNameInTable="RFIResponseColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4000" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

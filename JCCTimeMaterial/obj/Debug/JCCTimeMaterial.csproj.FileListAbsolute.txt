@@ -1,0 +1,1157 @@
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Security.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\office.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\stdole.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Security.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\office.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.Cache
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Security.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\office.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\stdole.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Security.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\office.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojResolveAssemblyReference.cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.Cache
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Data.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraBars.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Security.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.CodeParser.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\office.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\stdole.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll.config
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Security.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\office.xml
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojAssemblyReference.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialRentalsSubcontractors.resources
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CoreCompileInputs.cache
+E:\Amrit_backup\Amrit\Dynalectric\Code Backup\Master Branch\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CopyComplete
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Security.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.CodeParser.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\office.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\stdole.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Data.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraBars.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll.config
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Security.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\office.xml
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojAssemblyReference.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialRentalsSubcontractors.resources
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CoreCompileInputs.cache
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CopyComplete
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+E:\Dynalectric\Code Backup\Master Branch\SG3Development-master- Working Copy use this in future\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Data.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.PivotGrid.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraBars.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPivotGrid.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Security.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Extensions.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.CodeParser.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\office.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\stdole.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Data.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraBars.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraPivotGrid.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.PivotGrid.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.Extensions.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraReports.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraRichEdit.v15.1.Extensions.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll.config
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Security.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Office.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.XtraGauges.v15.1.Core.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\DevExpress.Xpo.v15.1.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\office.xml
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.PivotGrid.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraReports.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraReports.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraReports.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraReports.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.Extensions.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.XtraGauges.v15.1.Core.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojAssemblyReference.cache
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialRentalsSubcontractors.resources
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.cache
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CoreCompileInputs.cache
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CopyComplete
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+D:\Anu Projects\Projects\DynaElectric\Anu\SG3Development-master\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialRentalsSubcontractors.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\office.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\Microsoft.Office.Interop.Word.xml
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.pdb
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\bin\Debug\office.xml
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+G:\Anu\SG3Development-master\CCEJobs\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\stdole.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialRentalsSubcontractors.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Security.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll.config
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Security.pdb
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojAssemblyReference.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialRentalsSubcontractors.resources
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CoreCompileInputs.cache
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CopyComplete
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+\\759-sg3dev01\g$\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Security.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll.config
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Security.pdb
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojAssemblyReference.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialRentalsSubcontractors.resources
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CoreCompileInputs.cache
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CopyComplete
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+Q:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialRentalsSubcontractors.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\JCCTimeMaterial.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\Security.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\BakirAndAssociates.DatabaseUtil.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\Bakir&Associates.ControlsLibrary.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\JCCBusinessLayer.dll.config
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\bin\Debug\Security.pdb
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csprojAssemblyReference.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Controls.ctlTimeMaterialLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.PresentationLayer.frmWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Properties.Resources.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderMaterial.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialLog.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrder.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialWorkOrderLabor.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.Reports.rptJobTimeMaterialRentalsSubcontractors.resources
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.GenerateResource.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll.licenses
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CoreCompileInputs.cache
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.csproj.CopyComplete
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.dll
+G:\Anu\SG3Development-master\CCEJobs\Anu - Project Proposal -Labour rate development\JCCTimeMaterial\obj\Debug\JCCTimeMaterial.pdb

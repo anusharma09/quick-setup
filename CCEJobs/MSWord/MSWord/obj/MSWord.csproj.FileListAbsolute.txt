@@ -1,0 +1,12 @@
+C:\CCEJobs\MSWord\MSWord\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs\MSWord\MSWord\obj\Debug\MSWord.csproj.ResolveComReference.cache
+C:\CCEJobs\MSWord\MSWord\obj\Debug\MSWord.frmMSWord.resources
+C:\CCEJobs\MSWord\MSWord\obj\Debug\MSWord.Properties.Resources.resources
+C:\CCEJobs\MSWord\MSWord\obj\Debug\MSWord.csproj.GenerateResource.Cache
+C:\CCEJobs\MSWord\MSWord\bin\Debug\MSWord.exe
+C:\CCEJobs\MSWord\MSWord\bin\Debug\MSWord.pdb
+C:\CCEJobs\MSWord\MSWord\obj\Debug\MSWord.exe
+C:\CCEJobs\MSWord\MSWord\obj\Debug\MSWord.pdb
+C:\CCEJobs\MSWord\MSWord\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\MSWord\MSWord\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\CCEJobs\MSWord\MSWord\bin\Debug\Office.dll

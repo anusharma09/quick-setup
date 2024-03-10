@@ -1,0 +1,117 @@
+C:\CCEJobs\CCEOTProjects\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll
+C:\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.pdb
+C:\CCEJobs\CCEOTProjects\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\CCEOTProjects\bin\Release\Security.dll
+C:\CCEJobs\CCEOTProjects\bin\Release\Security.pdb
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.pdb
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOTProjectList.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csproj.GenerateResource.Cache
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll.licenses
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocReport.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Properties.Resources.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByDepartment.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByOffice.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByWorkType.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByStatus.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesList.resources
+C:\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll.config
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.PresentationLayer.frmProjectOpportunity.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectSheet.resources
+C:\CCEJobs\CCEOTProjects\bin\Debug\CCEOTProjects.dll.config
+C:\CCEJobs\CCEOTProjects\bin\Debug\CCEOTProjects.dll
+C:\CCEJobs\CCEOTProjects\bin\Debug\CCEOTProjects.pdb
+C:\CCEJobs\CCEOTProjects\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\CCEOTProjects\bin\Debug\Security.dll
+C:\CCEJobs\CCEOTProjects\bin\Debug\Security.pdb
+C:\CCEJobs\CCEOTProjects\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Controls.ctlAdHocReport.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Controls.ctlOTProjectList.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.PresentationLayer.frmProjectOpportunity.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Properties.Resources.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByDepartment.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByOffice.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByWorkType.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByStatus.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesList.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptProjectSheet.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.csproj.GenerateResource.Cache
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.dll.licenses
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.dll
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.pdb
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByAssignedTo.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByAssignedTo.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectDocuments.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectDocumentList.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectWebLinks.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectNotes.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAudit.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAudit.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectNotes.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectWebLinks.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesAnalysis.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocAnalysisReport.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAssignments.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAssignments.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateTrackingReport.resources
+C:\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityTracking.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Controls.ctlOpportunityEstimateTrackingReport.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Controls.ctlProjectAssignments.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Controls.ctlAdHocAnalysisReport.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Controls.ctlProjectAudit.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Controls.ctlProjectNotes.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Controls.ctlProjectWebLinks.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Controls.ctlProjectDocuments.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptEstimateOpportunityTracking.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptProjectAssignments.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesAnalysis.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptProjectAudit.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptProjectNotes.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptProjectWebLinks.resources
+C:\CCEJobs\CCEOTProjects\obj\Debug\CCEOTProjects.Reports.rptProjectDocumentList.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.dll
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\CCEOTProjects.pdb
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\office.dll
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\office.xml
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateTrackingReport.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAssignments.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocAnalysisReport.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectAudit.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectNotes.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectWebLinks.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlAdHocReport.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlProjectDocuments.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOTProjectList.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.PresentationLayer.frmProjectOpportunity.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityTracking.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAssignments.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesAnalysis.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectAudit.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectNotes.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectWebLinks.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByAssignedTo.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByDepartment.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByOffice.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByWorkType.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesListByStatus.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptAdHocProjctOpportunitiesList.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectDocumentList.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptProjectSheet.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.dll
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.pdb
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateHoursReport.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Controls.ctlOpportunityEstimateJobStatisticsReport.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptEstimateOpportunityHoursTracking.resources
+C:\CCEJobs San Diego Production\CCEJobs\CCEOTProjects\obj\Release\CCEOTProjects.Reports.rptOpportunityEstimateJobStatistics.resources

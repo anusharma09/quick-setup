@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="AtefDataSet11" targetNamespace="http://tempuri.org/AtefDataSet11.xsd" xmlns:mstns="http://tempuri.org/AtefDataSet11.xsd" xmlns="http://tempuri.org/AtefDataSet11.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="CostCodeConnectionString" ConnectionStringObject="" IsAppSettingsProperty="True" Modifier="Assembly" Name="CostCodeConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CCEJobs.Properties.Settings.GlobalReference.Default.CostCodeConnectionString" Provider="System.Data.SqlClient">
+          </Connection>
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="tblBidBondTableAdapter" GeneratorDataComponentClassName="tblBidBondTableAdapter" Name="tblBidBond" UserDataComponentName="tblBidBondTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="CostCodeConnectionString (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="False" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="True" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="True">
+                    <CommandText> SELECT 	
+	                 EstimateNumber, 
+	                 JobNumber, 
+	                 JobName, 
+	                 m.Description As [ProjectManager], 
+	                 e.Description As [Estimator], 
+	                 s.Description AS [Superintendent], 
+	                 BillingRep,
+	                 Name AS [CustomerName], 
+   	                 ApprovedAmount = 
+      	               CASE JobChangeOrderApprovedAmount 
+         	         WHEN 0 THEN JobChangeOrderRequestedAmount 
+         	         ELSE JobChangeOrderApprovedAmount 
+      	             END, 
+	                 JobCostCodeType, 
+	                 JobCostCodePhase, 
+	                 CostCode, 
+	                 d.Description AS [CostCodeDescription], 
+                     ISNULL(Quantity, 0) AS Quantity, 
+	                 ISNULL(Hours,0) AS Hours, 
+       	             ISNULL(d.Cost, 0) AS Cost                   
+                     FROM tblJob j 
+                     LEFT JOIN tblProjectManager m 
+                     ON j.ProjectManagerID = m.ProjectManagerID 
+                     LEFT JOIN tblEstimator e 
+                     ON j.EstimatorID = e.EstimatorID 
+                     LEFT JOIN tblSuperintendent s 
+                     ON j.SuperintendentID = s.SuperintendentID 
+                     LEFT JOIN tblJobChangeOrder C 
+                     ON j.JobID = c.JobID 
+                     LEFT JOIN tblCustomer u 
+                     ON j.CustomerID = u.CustomerID 
+                     LEFT JOIN tblJobCostCode d 
+                     ON c.JobChangeOrderID = d.JobChangeOrderID 
+                     LEFT JOIN tblJobCostCodePhase p 
+                     ON d.JobCostCodePhaseID = p.JobCostCodePhaseID 
+                     WHERE c.JobChangeOrderID = 0</CommandText>
+                    <Parameters>
+                    </Parameters>
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EstimateNumber" DataSetColumn="EstimateNumber" />
+              <Mapping SourceColumn="JobNumber" DataSetColumn="JobNumber" />
+              <Mapping SourceColumn="JobName" DataSetColumn="JobName" />
+              <Mapping SourceColumn="ProjectManager" DataSetColumn="ProjectManager" />
+              <Mapping SourceColumn="Estimator" DataSetColumn="Estimator" />
+              <Mapping SourceColumn="Superintendent" DataSetColumn="Superintendent" />
+              <Mapping SourceColumn="BillingRep" DataSetColumn="BillingRep" />
+              <Mapping SourceColumn="CustomerName" DataSetColumn="CustomerName" />
+              <Mapping SourceColumn="ApprovedAmount" DataSetColumn="ApprovedAmount" />
+              <Mapping SourceColumn="JobCostCodeType" DataSetColumn="JobCostCodeType" />
+              <Mapping SourceColumn="JobCostCodePhase" DataSetColumn="JobCostCodePhase" />
+              <Mapping SourceColumn="CostCode" DataSetColumn="CostCode" />
+              <Mapping SourceColumn="CostCodeDescription" DataSetColumn="CostCodeDescription" />
+              <Mapping SourceColumn="Quantity" DataSetColumn="Quantity" />
+              <Mapping SourceColumn="Hours" DataSetColumn="Hours" />
+              <Mapping SourceColumn="Cost" DataSetColumn="Cost" />
+            </Mappings>
+            <Sources>
+            </Sources>
+          </TableAdapter>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="AtefDataSet11" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="AtefDataSet11" msprop:Generator_DataSetName="AtefDataSet11">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tblBidBond" msprop:Generator_UserTableName="tblBidBond" msprop:Generator_RowDeletedName="tblBidBondRowDeleted" msprop:Generator_RowChangedName="tblBidBondRowChanged" msprop:Generator_RowClassName="tblBidBondRow" msprop:Generator_RowChangingName="tblBidBondRowChanging" msprop:Generator_RowEvArgName="tblBidBondRowChangeEvent" msprop:Generator_RowEvHandlerName="tblBidBondRowChangeEventHandler" msprop:Generator_TableClassName="tblBidBondDataTable" msprop:Generator_TableVarName="tabletblBidBond" msprop:Generator_RowDeletingName="tblBidBondRowDeleting" msprop:Generator_TablePropName="tblBidBond">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EstimateNumber" msprop:Generator_UserColumnName="EstimateNumber" msprop:Generator_ColumnPropNameInRow="EstimateNumber" msprop:Generator_ColumnVarNameInTable="columnEstimateNumber" msprop:Generator_ColumnPropNameInTable="EstimateNumberColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="JobNumber" msprop:Generator_UserColumnName="JobNumber" msprop:Generator_ColumnPropNameInRow="JobNumber" msprop:Generator_ColumnVarNameInTable="columnJobNumber" msprop:Generator_ColumnPropNameInTable="JobNumberColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="JobName" msprop:Generator_UserColumnName="JobName" msprop:Generator_ColumnPropNameInRow="JobName" msprop:Generator_ColumnVarNameInTable="columnJobName" msprop:Generator_ColumnPropNameInTable="JobNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ProjectManager" msprop:Generator_UserColumnName="ProjectManager" msprop:Generator_ColumnPropNameInRow="ProjectManager" msprop:Generator_ColumnVarNameInTable="columnProjectManager" msprop:Generator_ColumnPropNameInTable="ProjectManagerColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Estimator" msprop:Generator_UserColumnName="Estimator" msprop:Generator_ColumnPropNameInRow="Estimator" msprop:Generator_ColumnVarNameInTable="columnEstimator" msprop:Generator_ColumnPropNameInTable="EstimatorColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Superintendent" msprop:Generator_UserColumnName="Superintendent" msprop:Generator_ColumnPropNameInRow="Superintendent" msprop:Generator_ColumnVarNameInTable="columnSuperintendent" msprop:Generator_ColumnPropNameInTable="SuperintendentColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="BillingRep" msprop:Generator_UserColumnName="BillingRep" msprop:Generator_ColumnPropNameInRow="BillingRep" msprop:Generator_ColumnVarNameInTable="columnBillingRep" msprop:Generator_ColumnPropNameInTable="BillingRepColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CustomerName" msprop:Generator_UserColumnName="CustomerName" msprop:Generator_ColumnPropNameInRow="CustomerName" msprop:Generator_ColumnVarNameInTable="columnCustomerName" msprop:Generator_ColumnPropNameInTable="CustomerNameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ApprovedAmount" msdata:ReadOnly="true" msprop:Generator_UserColumnName="ApprovedAmount" msprop:Generator_ColumnPropNameInRow="ApprovedAmount" msprop:Generator_ColumnVarNameInTable="columnApprovedAmount" msprop:Generator_ColumnPropNameInTable="ApprovedAmountColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="JobCostCodeType" msprop:Generator_UserColumnName="JobCostCodeType" msprop:Generator_ColumnPropNameInRow="JobCostCodeType" msprop:Generator_ColumnVarNameInTable="columnJobCostCodeType" msprop:Generator_ColumnPropNameInTable="JobCostCodeTypeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="JobCostCodePhase" msprop:Generator_UserColumnName="JobCostCodePhase" msprop:Generator_ColumnPropNameInRow="JobCostCodePhase" msprop:Generator_ColumnVarNameInTable="columnJobCostCodePhase" msprop:Generator_ColumnPropNameInTable="JobCostCodePhaseColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CostCode" msprop:Generator_UserColumnName="CostCode" msprop:Generator_ColumnPropNameInRow="CostCode" msprop:Generator_ColumnVarNameInTable="columnCostCode" msprop:Generator_ColumnPropNameInTable="CostCodeColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CostCodeDescription" msprop:Generator_UserColumnName="CostCodeDescription" msprop:Generator_ColumnPropNameInRow="CostCodeDescription" msprop:Generator_ColumnVarNameInTable="columnCostCodeDescription" msprop:Generator_ColumnPropNameInTable="CostCodeDescriptionColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Quantity" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Quantity" msprop:Generator_ColumnPropNameInRow="Quantity" msprop:Generator_ColumnVarNameInTable="columnQuantity" msprop:Generator_ColumnPropNameInTable="QuantityColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Hours" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Hours" msprop:Generator_ColumnPropNameInRow="Hours" msprop:Generator_ColumnVarNameInTable="columnHours" msprop:Generator_ColumnPropNameInTable="HoursColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="Cost" msdata:ReadOnly="true" msprop:Generator_UserColumnName="Cost" msprop:Generator_ColumnPropNameInRow="Cost" msprop:Generator_ColumnVarNameInTable="columnCost" msprop:Generator_ColumnPropNameInTable="CostColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

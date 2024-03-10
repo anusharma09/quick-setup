@@ -1,0 +1,93 @@
+$AddressFormat:  1
+$NameFormat:  1
+$BusinessAddressFormat:  1
+$PersonalAddressFormat:  1
+$PreviewFormat:  1
+FirstName:  Mark
+MiddleInitial: M 
+LastName:  Not Known
+Title:  Mr.
+Suffix:  Sr.
+MailAddress:  abakir@Att.nett
+CompanyName:  Dyna-SD
+JobTitle:  IT Manager
+OfficeStreetAddress:  My Address
+OfficeCity:  My City
+OfficeState:  My State
+OfficeZIP:  My Zip
+OfficeCountry:  My Country
+OfficePhoneNumber:  (858)810-0033
+OfficeFAXPhoneNumber:  My Fax
+CellPhoneNumber:  My Cell
+PhoneNumber_6:  My Pager two 
+FullName:  Mark Not Known
+NameDisplayPref:  2
+ -- Form Feed Character
+$AddressFormat:  1
+$NameFormat:  1
+$BusinessAddressFormat:  1
+$PersonalAddressFormat:  1
+$PreviewFormat:  1
+FirstName:  Mark
+MiddleInitial: M 
+LastName:  Not Known
+Title:  Mr.
+Suffix:  Sr.
+MailAddress:  abakir@Att.nett
+CompanyName:  Dyna-SD
+JobTitle:  IT Manager
+OfficeStreetAddress:  My Address
+OfficeCity:  My City
+OfficeState:  My State
+OfficeZIP:  My Zip
+OfficeCountry:  My Country
+OfficePhoneNumber:  (858)810-0033
+OfficeFAXPhoneNumber:  My Fax
+CellPhoneNumber:  My Cell
+PhoneNumber_6:  My Pager two 
+FullName:  Mark Not Known
+NameDisplayPref:  2
+ -- Form Feed Character
+
+The file format is: Structured Text
+
+
+
+How to Import the Contact File
+1. Delete the Original Contact Database
+2. Create a new database with the same name:
+	a. Select: File - Database - New
+	b. Enter required items as below:
+i. Select the Server where the database will reside
+ii. Enter the database title
+iii. Enter the file name or leave as default
+iv. Select the template
+v. Uncheck Inherit Future Design Changes
+c. Press OK to process
+d. The new contact database will be created
+
+
+
+3. Select the contact databases to which import the contacts
+2. Select Menu: File-Import. The following screen will be displayed:
+	a. Files of Type: Structured Text
+	b. File name: Select the file created by Contact Management Module
+	c. Click on the Import button
+
+
+3. When clicking the Import Button, the following screen will be displayed:
+	a. How to Import Documents:
+	- Import as:  Select the default value “Main Document(s) “
+	- Using Form: Select Contact
+	b. Separator between Documents: 
+		- Select Form-Feed
+	c. Options for Imported Documents: 
+		- For body text: Select Justify
+		- Check Calculate fields on form during document import
+	d. Click on the OK button
+
+
+
+4. When clicking the OK Button, the import process will be completed and contacts will be listed in the new database.
+ 
+

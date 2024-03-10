@@ -1,0 +1,159 @@
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll.config
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.pdb
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\Security.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\office.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Vbe.Interop.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Word.xml
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\bin\Release\office.xml
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\obj\Release\ResolveAssemblyReference.cache
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.dll
+D:\CCEJobs San Diego Production - VS2008\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.pdb
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll.config
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.pdb
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Security.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.dll
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.pdb
+D:\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.csprojResolveAssemblyReference.cache
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll.config
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.pdb
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Data.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Printing.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Utils.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.XtraEditors.v15.1.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Security.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\office.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\stdole.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Printing.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Data.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Utils.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.XtraEditors.v15.1.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\office.xml
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.dll
+C:\Dynalectric\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll.config
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\BakirAndAssociates.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Security.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\office.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\stdole.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\BakirAndAssociates.DatabaseUtil.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\office.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll.config
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\JCCBusinessLayer.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\BakirAndAssociates.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Data.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Printing.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Utils.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.XtraEditors.v15.1.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\Security.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Sparkline.v15.1.Core.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\office.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\stdole.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\BakirAndAssociates.DatabaseUtil.pdb
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Printing.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Data.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Utils.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.XtraEditors.v15.1.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\DevExpress.Sparkline.v15.1.Core.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\office.xml
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Data.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Utils.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\bin\Release\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.dll
+C:\CostManagementSystem\CCEJobs San Diego Production - VS2010 - Prod\CCEJobs\JCCBusinessLayer\obj\Release\JCCBusinessLayer.pdb

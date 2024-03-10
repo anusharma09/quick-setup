@@ -1,0 +1,96 @@
+C:\CCEJobs\JCCLightFixture\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCLightFixture\bin\Release\JCCLightFixture.dll
+C:\CCEJobs\JCCLightFixture\bin\Release\JCCLightFixture.pdb
+C:\CCEJobs\JCCLightFixture\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCLightFixture\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs\JCCLightFixture\bin\Release\Security.dll
+C:\CCEJobs\JCCLightFixture\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCLightFixture\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCLightFixture\bin\Release\Security.pdb
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.dll
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.pdb
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Controls.ctlJobLightFixture.resources
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.dll.licenses
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.PresentationLayer.frmLightFixture.resources
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureLog.resources
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureLogSub.resources
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Properties.Resources.resources
+C:\CCEJobs\JCCLightFixture\bin\Release\JCCLightFixture.dll.config
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.PresentationLayer.frmLightFixtureRelease.resources
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureReleaseLogSub.resources
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureReleaseLog.resources
+C:\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureReleaseForm.resources
+C:\CCEJobs\JCCLightFixture\bin\Debug\JCCLightFixture.dll.config
+C:\CCEJobs\JCCLightFixture\bin\Debug\JCCLightFixture.dll
+C:\CCEJobs\JCCLightFixture\bin\Debug\JCCLightFixture.pdb
+C:\CCEJobs\JCCLightFixture\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs\JCCLightFixture\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs\JCCLightFixture\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs\JCCLightFixture\bin\Debug\Security.dll
+C:\CCEJobs\JCCLightFixture\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs\JCCLightFixture\bin\Debug\Security.pdb
+C:\CCEJobs\JCCLightFixture\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Controls.ctlJobLightFixture.resources
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.PresentationLayer.frmLightFixtureRelease.resources
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.PresentationLayer.frmLightFixture.resources
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Properties.Resources.resources
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureReleaseLogSub.resources
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureReleaseLog.resources
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureLog.resources
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureLogSub.resources
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureReleaseForm.resources
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.csproj.GenerateResource.Cache
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.dll.licenses
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.dll
+C:\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Debug\JCCLightFixture.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Debug\JCCLightFixture.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Debug\JCCLightFixture.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Debug\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Debug\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Debug\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Debug\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Debug\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Controls.ctlJobLightFixture.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.PresentationLayer.frmLightFixtureRelease.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.PresentationLayer.frmLightFixture.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureReleaseLogSub.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureReleaseLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureLogSub.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.Reports.rptJobLightFixtureReleaseForm.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Debug\JCCLightFixture.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\JCCLightFixture.dll.config
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\JCCLightFixture.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\JCCLightFixture.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\ContraCostaElectric.DatabaseUtil.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\JCCBusinessLayer.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\Security.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\Microsoft.Office.Interop.Word.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\office.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\Microsoft.Vbe.Interop.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\Microsoft.Office.Interop.Word.xml
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\JCCBusinessLayer.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\bin\Release\Security.pdb
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\ResolveAssemblyReference.cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Controls.ctlJobLightFixture.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.PresentationLayer.frmLightFixtureRelease.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.PresentationLayer.frmLightFixture.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Properties.Resources.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureReleaseLogSub.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureReleaseLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureLog.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureLogSub.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.Reports.rptJobLightFixtureReleaseForm.resources
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.csproj.GenerateResource.Cache
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.dll.licenses
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.dll
+C:\CCEJobs San Diego Production\CCEJobs\JCCLightFixture\obj\Release\JCCLightFixture.pdb

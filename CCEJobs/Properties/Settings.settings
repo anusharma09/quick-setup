@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CCEJobs.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FormsLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Dynalectric\z\Files\</Value>
+    </Setting>
+    <Setting Name="u1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Q/sKm2JGfXp5g4YFH2bltg==</Value>
+    </Setting>
+    <Setting Name="u2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">pMbkfVS8OJcjxzmQJ+jJFQ==</Value>
+    </Setting>
+    <Setting Name="Company" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Dynalectric Company </Value>
+    </Setting>
+    <Setting Name="ProjectOpportunityLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Dynalectric\z\ProjectOpportunity\</Value>
+    </Setting>
+    <Setting Name="LogFile" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">E:\SG3-Logs\</Value>
+    </Setting>
+    <Setting Name="Server" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">PC2\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="database" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">JCCProd</Value>
+    </Setting>
+    <Setting Name="EstimatesLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Estimates\</Value>
+    </Setting>
+    <Setting Name="JobsLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jobs\</Value>
+    </Setting>
+    <Setting Name="ExcelTemplatesLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\Dynalectric\z\Templates\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
